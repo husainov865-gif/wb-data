@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-18T21:01:13">
+<yml_catalog date="2026-08-19T09:01:19">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -402,7 +402,7 @@
 р.р 20.0 - 1 брл Кр-57 0,040Ct 3/6, вес: 6,12г</description>
         <stock>1</stock>
     </offer>
-    <offer id="313273375" available="true">
+    <offer id="313273375" available="false">
         <name>Серьги ювелирные "Липовый цвет" с бриллиантами</name>
         <price>80350</price>
         <currencyId>RUB</currencyId>
@@ -414,7 +414,7 @@
 
 Вставка из натуральных природных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 4 брл Кр-57 0,050Ct 3/6, вес: 2,47г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="955325235" available="false">
         <name>Кольцо ювелирное с бриллиантом</name>
@@ -13067,7 +13067,7 @@
 р. 18.0 - 72 брл Кр-57 0,200Ct 3/5, вес: 3,04; 3,21г</description>
         <stock>0</stock>
     </offer>
-    <offer id="182617161" available="true">
+    <offer id="182617161" available="false">
         <name>Кольцо ювелирное с сердечками с бриллиантами</name>
         <price>203425</price>
         <currencyId>RUB</currencyId>
@@ -13079,7 +13079,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 р.р 17.5 - 6 брл Кр-57 0,060Ct 3/3, вес: 6,74г
 р.р 18.0 - 6 брл Кр-57 0,060Ct 3/3, вес: 6,85г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="181606731" available="false">
         <name>Кольцо сердечки с топазом и бриллиантами Сияние чувств</name>
