@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-20T21:01:17">
+<yml_catalog date="2026-08-21T09:01:26">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -6297,7 +6297,7 @@
 1 брл Кр-57 0,090Ct 3/6 ,1 брл Кр-57 0,030Ct 3/4 ,3 брл Кр-57 0,070Ct 3/5, вес: 1,51г</description>
         <stock>0</stock>
     </offer>
-    <offer id="1252087495" available="true">
+    <offer id="1252087495" available="false">
         <name>Одиночная серьга-моно "Цветик-семицветик" с фианитами</name>
         <price>20500</price>
         <currencyId>RUB</currencyId>
@@ -6309,7 +6309,7 @@
 
 Вставка из камней фианитов:
 8 фианит недр. Кр 0,380Ct семицветик, вес: 0,59г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="969302053" available="true">
         <name>Одиночная серьга-моно ювелирная с аметистом</name>
@@ -8949,9 +8949,9 @@
 р.р 18.0 - 14 брл Кр-57 0,240Ct 3/6, вес: 6,36г</description>
         <stock>0</stock>
     </offer>
-    <offer id="434612139" available="true">
+    <offer id="434612139" available="false">
         <name>Кольцо ювелирное "Золотая королева" с бриллиантами</name>
-        <price>169250</price>
+        <price>148940</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -8961,7 +8961,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 р.р. 16.5 - 36 брл Кр-57 0,280Ct 3/6, вес: 4,24г
 р.р 18.0 - 40 брл Кр-57 0,300Ct 3/6, вес: 4,59г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="432771428" available="false">
         <name>Кольцо ювелирное "Белая королева"</name>
@@ -12729,7 +12729,7 @@
 р.р. 16.0 - 1 брл Кр-57 0,030Ct 2/5, вес: 3,07г</description>
         <stock>0</stock>
     </offer>
-    <offer id="169901079" available="true">
+    <offer id="169901079" available="false">
         <name>Кольцо ювелирное "Звезды Медичи" с бриллиантами</name>
         <price>217500</price>
         <currencyId>RUB</currencyId>
@@ -12748,7 +12748,7 @@
 р.р. - 17.5 - 1 брл Кр-57 0,080Ct 2/4 ,4 брл Кр-57 0,020Ct 3/5, вес: 4,41г
 р.р. -18.0 - 1 брл Кр-57 0,080Ct 2/4 ,4 брл Кр-57 0,020Ct 3/5, вес: 4,68г
 р.р. - 18.5 - 1 брл Кр-57 0,080Ct 2/4 ,4 брл Кр-57 0,020Ct 3/5, вес: 4,83г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="155896998" available="false">
         <name>Кольцо с круглой шинкой и бриллиантом</name>
@@ -15676,7 +15676,7 @@
 40 брл Кр-57 0,420Ct 3/6, вес: 8,47.</description>
         <stock>0</stock>
     </offer>
-    <offer id="175880229" available="true">
+    <offer id="175880229" available="false">
         <name>Кольцо золотое двойная дорожка с бриллиантами</name>
         <price>196500</price>
         <currencyId>RUB</currencyId>
@@ -15688,7 +15688,7 @@
 Вставка из природных натуральных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 р.р 17.0 - 68 брл Кр-57 0,650Ct 3/6, вес: 3,97г
 р.р 17.5 - 68 брл Кр-57 0,690Ct 3/6, вес: 3,7г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="147310769" available="false">
         <name>Кольцо с бриллиантом</name>
