@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-23T09:01:16">
+<yml_catalog date="2026-08-23T21:01:14">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -12,6 +12,20 @@
       <category id="1">Украшения</category>
     </categories>
     <offers>
+    <offer id="313273375" available="true">
+        <name>Серьги ювелирные "Липовый цвет" с бриллиантами</name>
+        <price>80350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>Ювелирные серьги</categoryId>
+        <picture>[object Object]</picture>
+        <description>Серьги из желтого золота 585 пробы с натуральными бриллиантами.
+Небольшие пусеты в которых 4 натуральных бриллианта еще ярче и выйгрышней играют на контрасте нежных матовых лепестков из желтого золота.
+Длина гвоздика (иглы) 10 мм, рабочая часть 5 мм.
+
+Вставка из натуральных природных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
+4 брл Кр-57 0,050Ct 3/6, вес: 2,47г</description>
+        <stock>1</stock>
+    </offer>
     <offer id="664037168" available="true">
         <name>Серьги ювелирные с изумрудами</name>
         <price>283750</price>
@@ -400,20 +414,6 @@
 р.р 17.5 - 1 брл Кр-57 0,040Ct 3/6, вес: 4,53г
 р.р 18.0 - 1 брл Кр-57 0,030Ct 3/6, вес: 4,73г
 р.р 20.0 - 1 брл Кр-57 0,040Ct 3/6, вес: 6,12г</description>
-        <stock>1</stock>
-    </offer>
-    <offer id="313273375" available="true">
-        <name>Серьги ювелирные "Липовый цвет" с бриллиантами</name>
-        <price>80350</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>Ювелирные серьги</categoryId>
-        <picture>[object Object]</picture>
-        <description>Серьги из желтого золота 585 пробы с натуральными бриллиантами.
-Небольшие пусеты в которых 4 натуральных бриллианта еще ярче и выйгрышней играют на контрасте нежных матовых лепестков из желтого золота.
-Длина гвоздика (иглы) 10 мм, рабочая часть 5 мм.
-
-Вставка из натуральных природных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
-4 брл Кр-57 0,050Ct 3/6, вес: 2,47г</description>
         <stock>1</stock>
     </offer>
     <offer id="955325235" available="false">
