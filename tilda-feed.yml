@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-23T21:01:14">
+<yml_catalog date="2026-08-24T09:01:18">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -5639,7 +5639,7 @@
         <description>Брошь-булавка Козерог из желтого золота 585 пробы. Вес: 1,91.</description>
         <stock>0</stock>
     </offer>
-    <offer id="820532166" available="false">
+    <offer id="820532166" available="true">
         <name>Серьги ювелирные листья с бриллиантами</name>
         <price>164000</price>
         <currencyId>RUB</currencyId>
@@ -5650,7 +5650,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,110Ct 3/5, вес: 2,66г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="446268334" available="false">
         <name>Серьги ювелирные "Росинки"</name>
