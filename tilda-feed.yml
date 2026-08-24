@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-24T09:01:18">
+<yml_catalog date="2026-08-24T21:01:33">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -21614,7 +21614,7 @@
 2 брл Кр-57 0,300Ct 3/6 ,14 брл Кр-57 0,060Ct 3/6, вес: 1,89г</description>
         <stock>0</stock>
     </offer>
-    <offer id="147013541" available="true">
+    <offer id="147013541" available="false">
         <name>Серьги ювелирные с бриллиантами</name>
         <price>95160</price>
         <currencyId>RUB</currencyId>
@@ -21627,7 +21627,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 2 брл Кр-57 0,110Ct 3/4, вес: 1,16г; 1,11г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="141342667" available="false">
         <name>Золотые серьги с бриллиант</name>
