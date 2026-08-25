@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-24T21:01:33">
+<yml_catalog date="2026-08-25T09:01:18">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -3647,7 +3647,7 @@
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,010Ct 3/6, вес: 0,26г; 0,27г; 0,2г; 0,28г, 0,21г 
 </description>
-        <stock>4</stock>
+        <stock>3</stock>
     </offer>
     <offer id="340718477" available="false">
         <name>Подвеска золоте Сердце с бриллиантом</name>
@@ -6297,7 +6297,7 @@
 1 брл Кр-57 0,090Ct 3/6 ,1 брл Кр-57 0,030Ct 3/4 ,3 брл Кр-57 0,070Ct 3/5, вес: 1,51г</description>
         <stock>0</stock>
     </offer>
-    <offer id="1252087495" available="true">
+    <offer id="1252087495" available="false">
         <name>Одиночная серьга-моно "Цветик-семицветик" с фианитами</name>
         <price>20500</price>
         <currencyId>RUB</currencyId>
@@ -6309,7 +6309,7 @@
 
 Вставка из камней фианитов:
 8 фианит недр. Кр 0,380Ct семицветик, вес: 0,59г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="969302053" available="true">
         <name>Одиночная серьга-моно ювелирная с аметистом</name>
@@ -12729,7 +12729,7 @@
 р.р. 16.0 - 1 брл Кр-57 0,030Ct 2/5, вес: 3,07г</description>
         <stock>0</stock>
     </offer>
-    <offer id="169901079" available="true">
+    <offer id="169901079" available="false">
         <name>Кольцо ювелирное "Звезды Медичи" с бриллиантами</name>
         <price>217500</price>
         <currencyId>RUB</currencyId>
@@ -12748,7 +12748,7 @@
 р.р. - 17.5 - 1 брл Кр-57 0,080Ct 2/4 ,4 брл Кр-57 0,020Ct 3/5, вес: 4,41г
 р.р. -18.0 - 1 брл Кр-57 0,080Ct 2/4 ,4 брл Кр-57 0,020Ct 3/5, вес: 4,68г
 р.р. - 18.5 - 1 брл Кр-57 0,080Ct 2/4 ,4 брл Кр-57 0,020Ct 3/5, вес: 4,83г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="155896998" available="false">
         <name>Кольцо с круглой шинкой и бриллиантом</name>
