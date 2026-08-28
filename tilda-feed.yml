@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-27T21:01:44">
+<yml_catalog date="2026-08-28T09:01:22">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -6853,7 +6853,7 @@
 р.р. 16.5 - 1 брл Рад-57 0,510Ct 9-4/8, вес: 1,70г</description>
         <stock>0</stock>
     </offer>
-    <offer id="333349226" available="true">
+    <offer id="333349226" available="false">
         <name>Кольцо ювелирное с бриллиантом</name>
         <price>721175</price>
         <currencyId>RUB</currencyId>
@@ -6865,7 +6865,7 @@
 
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия): 
 р.р 18.0 - 1 брл Кр-57 1,170Ct 9-4/10, вес: 3,17г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="217816772" available="false">
         <name>Кольцо с бриллиантом</name>
