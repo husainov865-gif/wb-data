@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28T09:01:22">
+<yml_catalog date="2026-08-28T21:01:14">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -5543,7 +5543,7 @@
 1 брл Кр-57 0,060Ct 3/4, вес: 0,6г</description>
         <stock>0</stock>
     </offer>
-    <offer id="1011786193" available="false">
+    <offer id="1011786193" available="true">
         <name>Подвеска ювелирная "Минимализм" с бриллиантом</name>
         <price>50600</price>
         <currencyId>RUB</currencyId>
@@ -5556,7 +5556,7 @@
 
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия): 
 1 брл Кр-57 0,060Ct 4/4, вес: 0,59г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="1011786190" available="false">
         <name>Подвеска ювелирная "Минимализм" с бриллиантом</name>
