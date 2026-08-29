@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28T21:01:14">
+<yml_catalog date="2026-08-29T09:01:19">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -1692,7 +1692,7 @@
 </description>
         <stock>0</stock>
     </offer>
-    <offer id="335628008" available="false">
+    <offer id="335628008" available="true">
         <name>Кольцо золотое c бриллиантом принцесса</name>
         <price>229600</price>
         <currencyId>RUB</currencyId>
@@ -1705,7 +1705,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 р.р 17.5 - 1 брл Пр-65 0,150Ct 3/5, вес: 3,26г; 3,23г
 </description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="333349230" available="false">
         <name>Кольцо ювелирное</name>
