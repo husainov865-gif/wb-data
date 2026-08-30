@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-29T21:01:15">
+<yml_catalog date="2026-08-30T09:01:22">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -1355,7 +1355,7 @@
 16 фианит недр. 1,720Ct, вес: 1,85г</description>
         <stock>0</stock>
     </offer>
-    <offer id="330759990" available="false">
+    <offer id="330759990" available="true">
         <name>Серьги ювелирные "Цветик-Семицветик" с фианитами</name>
         <price>41275</price>
         <currencyId>RUB</currencyId>
@@ -1367,7 +1367,7 @@
 Вставка из цветных фианитов:
 16 фианит недр. Кр 0,750Ct, вес: 1,57г; 1,16г; 1,2г
 </description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="330759984" available="true">
         <name>Серьги детские золотые Цветик-Семицветик</name>
@@ -15052,7 +15052,7 @@
 20 брл Кр-57 0,210Ct 3/6, вес: 6.58 г.</description>
         <stock>0</stock>
     </offer>
-    <offer id="347520387" available="false">
+    <offer id="347520387" available="true">
         <name>Кольцо золотое двойная дорожка с бриллиантами</name>
         <price>283750</price>
         <currencyId>RUB</currencyId>
@@ -15064,7 +15064,7 @@
 
 Вставка из природных натуральных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 р.р 18.5 - 72 брл Кр-57 0,860Ct 3/6, вес: 5,28г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="927036545" available="false">
         <name>Кольцо ювелирное с сапфиром</name>
