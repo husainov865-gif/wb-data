@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-30T09:01:22">
+<yml_catalog date="2026-08-30T21:01:16">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -13264,7 +13264,7 @@
 16 брл Кр-57 0,090Ct 3/6 ,2 спф Кр 3,50 0,390Ct 2/1, вес: 2.93 г.</description>
         <stock>0</stock>
     </offer>
-    <offer id="884669943" available="false">
+    <offer id="884669943" available="true">
         <name>Серьги ювелирные с изумрудами</name>
         <price>202360</price>
         <currencyId>RUB</currencyId>
@@ -13276,7 +13276,7 @@
 
 Вставка из натуральных природных камней бриллиантов и изумрудов (Бриллианты АЛРОСА, Якутия):
 16 брл Кр-57 0,090Ct 3/6 ,2 изм Кр 3,50 0,290Ct 4/1, вес: 2,8г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="884669869" available="false">
         <name>Серьги ювелирные с аметистами</name>
@@ -13333,7 +13333,7 @@
 </description>
         <stock>0</stock>
     </offer>
-    <offer id="783637511" available="false">
+    <offer id="783637511" available="true">
         <name>Кольцо ювелирное с изумрудом</name>
         <price>158640</price>
         <currencyId>RUB</currencyId>
@@ -13346,7 +13346,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 17.5 - 12 брл Кр-57 0,060Ct 3/5 ,1 изм Кр 3,50 0,190Ct 3/2, вес: 2,33г
 </description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="716292235" available="false">
         <name>Кольцо с бриллиантами и изумрудами</name>
@@ -13936,7 +13936,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 1 брл Пд-65 (Кушон) 0,920Ct 8-5/3 ,2 брл Тр-29 0,230Ct 2/2, вес: 4,56</description>
         <stock>0</stock>
     </offer>
-    <offer id="1031516883" available="false">
+    <offer id="1031516883" available="true">
         <name>Серьги ювелирные "Конго" с бриллиантами</name>
         <price>221560</price>
         <currencyId>RUB</currencyId>
@@ -13948,7 +13948,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 20 брл Кр-57 0,160Ct 3/5, вес: 3,78г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="927028926" available="false">
         <name>Ювелирные серьги "Гаечки" с бриллиантами</name>
