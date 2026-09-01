@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-01T09:01:18">
+<yml_catalog date="2026-09-01T21:01:16">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -3546,7 +3546,7 @@
 1 фианит недр. Кр 0,160Ct, вес: 1,71г; 1,81г</description>
         <stock>0</stock>
     </offer>
-    <offer id="1011786220" available="false">
+    <offer id="1011786220" available="true">
         <name>Подвеска ювелирная Сердечко с бриллиантом</name>
         <price>17200</price>
         <currencyId>RUB</currencyId>
@@ -3559,7 +3559,7 @@
 
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,010Ct 2/6, вес: 0,25г; 0,24г; 0,2г; 0,19г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="936686778" available="false">
         <name>Подвеска ювелирная Сердце с дорожкой бриллиантов</name>
@@ -23935,7 +23935,7 @@
 6 брл Кр-57 0,070Ct 3/5 ,1 трмл КабКр 5,00 0,790Ct, вес: 0,98.</description>
         <stock>0</stock>
     </offer>
-    <offer id="321857373" available="false">
+    <offer id="321857373" available="true">
         <name>Подвеска ювелирная Небосвод</name>
         <price>82500</price>
         <currencyId>RUB</currencyId>
@@ -23949,7 +23949,7 @@
 
 8 брл Кр-57 0,090Ct 3/5 ,1 амт Кабош 6,00 0,880Ct, вес: 1,10.
 </description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="203130099" available="false">
         <name>Подвеска "Цветочек" большая</name>
