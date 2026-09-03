@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-03T09:01:19">
+<yml_catalog date="2026-09-03T21:01:21">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -3647,7 +3647,7 @@
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,010Ct 3/6, вес: 0,26г; 0,27г; 0,2г; 0,28г, 0,21г 
 </description>
-        <stock>1</stock>
+        <stock>2</stock>
     </offer>
     <offer id="340718477" available="false">
         <name>Подвеска золоте Сердце с бриллиантом</name>
@@ -5903,7 +5903,7 @@
 Вес: 12,06г</description>
         <stock>0</stock>
     </offer>
-    <offer id="896151644" available="false">
+    <offer id="896151644" available="true">
         <name>Подвеска ювелирная "Мишка" с бриллиантами</name>
         <price>139480</price>
         <currencyId>RUB</currencyId>
@@ -5914,7 +5914,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,040Ct 3/6, вес: 2,82г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="896151619" available="false">
         <name>Подвеска ювелирная "Мишка" с бриллиантами</name>
@@ -10873,7 +10873,7 @@
 2 брл Кр-57 0,150Ct 3/4, вес: 2,52.</description>
         <stock>0</stock>
     </offer>
-    <offer id="317361041" available="true">
+    <offer id="317361041" available="false">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
         <price>70075</price>
         <currencyId>RUB</currencyId>
@@ -10884,7 +10884,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 2 брл Кр-57 0,030Ct 3/6, вес: 1,71г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="927028952" available="true">
         <name>Ювелирные серьги с бриллиантами</name>
