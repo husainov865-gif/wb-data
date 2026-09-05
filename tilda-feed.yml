@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-05T09:01:14">
+<yml_catalog date="2026-09-05T21:01:16">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -25,7 +25,7 @@
 1 брл Кр-57 0,030Ct 3/7, вес: 1,66г</description>
         <stock>0</stock>
     </offer>
-    <offer id="1068175463" available="false">
+    <offer id="1068175463" available="true">
         <name>Серьги ювелирные с бриллиантами</name>
         <price>210600</price>
         <currencyId>RUB</currencyId>
@@ -38,7 +38,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,200Ct 2/2, вес: 1,53г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="1009816418" available="false">
         <name>Серьги ювелирные с бриллиантами</name>
@@ -13430,7 +13430,7 @@
 16 брл Кр-57 0,240Ct 3/6 ,2 амт Кабош 5,00 1,440Ct, вес: 3,15г</description>
         <stock>0</stock>
     </offer>
-    <offer id="835898416" available="true">
+    <offer id="835898416" available="false">
         <name>Ювелирные серьги с бриллиантами</name>
         <price>242725</price>
         <currencyId>RUB</currencyId>
@@ -13441,7 +13441,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,300Ct 5/5 ,14 брл Кр-57 0,150Ct 3/5, вес: 1.91г.</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="335628011" available="false">
         <name>Кольцо ювелирное с изумрудами</name>
