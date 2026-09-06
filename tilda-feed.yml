@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-05T21:01:16">
+<yml_catalog date="2026-09-06T09:01:18">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -13430,7 +13430,7 @@
 16 брл Кр-57 0,240Ct 3/6 ,2 амт Кабош 5,00 1,440Ct, вес: 3,15г</description>
         <stock>0</stock>
     </offer>
-    <offer id="835898416" available="false">
+    <offer id="835898416" available="true">
         <name>Ювелирные серьги с бриллиантами</name>
         <price>242725</price>
         <currencyId>RUB</currencyId>
@@ -13441,7 +13441,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,300Ct 5/5 ,14 брл Кр-57 0,150Ct 3/5, вес: 1.91г.</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="335628011" available="false">
         <name>Кольцо ювелирное с изумрудами</name>
@@ -15530,7 +15530,7 @@
 1 брл Кр-57 0,170Ct 3/6, вес: 1,18г</description>
         <stock>0</stock>
     </offer>
-    <offer id="927028938" available="true">
+    <offer id="927028938" available="false">
         <name>Ювелирные серьги с сапфирами и бриллиантами</name>
         <price>138475</price>
         <currencyId>RUB</currencyId>
@@ -15542,7 +15542,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов и сапфиров(Бриллианты АЛРОСА, Якутия):
 14 брл Кр-57 0,210Ct 3/6 ,2 спф Кр 3,50 0,480Ct 2/1, вес: 1.95г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="782129825" available="false">
         <name>Подвеска ювелирная с турмалином</name>
