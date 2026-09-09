@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-08T21:01:14">
+<yml_catalog date="2026-09-09T09:01:22">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -12,6 +12,19 @@
       <category id="1">Украшения</category>
     </categories>
     <offers>
+    <offer id="969403632" available="false">
+        <name>Одиночная серьга-моно ювелирная "Морской скат"с бриллиантом</name>
+        <price>969999.03</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>Ювелирные серьги</categoryId>
+        <picture>[object Object]</picture>
+        <description>Серьга-моно из белого золота 585 пробы с бриллиантом. Покрытие родий.
+Размер декоративной части 16х13,5 мм, длина рабочей части иглы-винта 5 мм.
+
+Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
+1 брл Кр-57 0,030Ct 3/7, вес: 1,66г</description>
+        <stock>0</stock>
+    </offer>
     <offer id="1544314988" available="false">
         <name>Серьги ювелирные "Хвост павлина" с сапфирами и бриллиантами</name>
         <price>999999</price>
@@ -1393,19 +1406,6 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 2 брл Кр-57 0,420Ct 2/5, вес: 1,61г</description>
-        <stock>0</stock>
-    </offer>
-    <offer id="969403632" available="false">
-        <name>Одиночная серьга-моно ювелирная "Морской скат"с бриллиантом</name>
-        <price>969999.03</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>Ювелирные серьги</categoryId>
-        <picture>[object Object]</picture>
-        <description>Серьга-моно из белого золота 585 пробы с бриллиантом. Покрытие родий.
-Размер декоративной части 16х13,5 мм, длина рабочей части иглы-винта 5 мм.
-
-Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
-1 брл Кр-57 0,030Ct 3/7, вес: 1,66г</description>
         <stock>0</stock>
     </offer>
     <offer id="1068175463" available="true">
@@ -10752,7 +10752,7 @@
 р.р 18.0 - 40 брл Кр-57 0,280Ct 3/6, вес: 4,33г</description>
         <stock>1</stock>
     </offer>
-    <offer id="446063514" available="true">
+    <offer id="446063514" available="false">
         <name>Кольцо ювелирное "Италика"</name>
         <price>151175</price>
         <currencyId>RUB</currencyId>
@@ -10764,7 +10764,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 р.р 17.75 - 14 брл Кр-57 0,180Ct 3/6, вес: 6,36г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="446063486" available="false">
         <name>Кольцо ювелирное "Италика"</name>
@@ -12233,7 +12233,7 @@
 2 брл Кр-57 0,280Ct 3/4, вес: 2,18г</description>
         <stock>0</stock>
     </offer>
-    <offer id="463649346" available="false">
+    <offer id="463649346" available="true">
         <name>Серьги ювелирные шарики</name>
         <price>49575</price>
         <currencyId>RUB</currencyId>
@@ -12247,7 +12247,7 @@
 2 брл Кр-57 0,030Ct 3/5, вес: 1,56г
 2 брл Кр-57 0,030Ct 3/5, вес: 1,49г
 2 брл Кр-57 0,030Ct 3/5, вес: 1,51г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="432620531" available="true">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
@@ -21441,7 +21441,7 @@
 2 изм Кр 0,400Ct 3/2, вес: 1,59</description>
         <stock>0</stock>
     </offer>
-    <offer id="877145215" available="false">
+    <offer id="877145215" available="true">
         <name>Серьга-моно ювелирная с бриллиантом</name>
         <price>213320</price>
         <currencyId>RUB</currencyId>
@@ -21453,7 +21453,7 @@
 
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,220Ct 3/4, вес: 0,85г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="901263966" available="false">
         <name>Серьги ювелирные с бриллиантами</name>
