@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-10T09:01:18">
+<yml_catalog date="2026-09-10T21:01:16">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -23286,7 +23286,7 @@
 </description>
         <stock>0</stock>
     </offer>
-    <offer id="234918152" available="true">
+    <offer id="234918152" available="false">
         <name>Ювелирное кольцо перстень "Эдельвейс" с аметистом</name>
         <price>355750</price>
         <currencyId>RUB</currencyId>
@@ -23297,7 +23297,7 @@
 Размер декоративной части 31х17,3 мм, ширина шинки 2-3,7 мм, толщина шинки 1-2,5 мм.
 Размер камня аметиста 27,6х11 мм. 
 Вставка из натуральных природных драгоценных бриллиантов (Бриллианты АЛРОСА, Якутия) и натурального природного камня аметиста: 6 брл 0,210Ct 3/5 ,1 амт Багет 17,850Ct, вес: 10,25.</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="162910716" available="false">
         <name>Кольцо перстень с аметистом</name>
