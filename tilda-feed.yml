@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-11T09:01:20">
+<yml_catalog date="2026-09-11T21:01:17">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -6782,7 +6782,7 @@
 </description>
         <stock>0</stock>
     </offer>
-    <offer id="429062333" available="false">
+    <offer id="429062333" available="true">
         <name>Подвеска золотая "Нежность любви" с бриллиантом</name>
         <price>17600</price>
         <currencyId>RUB</currencyId>
@@ -6795,7 +6795,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов  драгоценного изумруда (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,010Ct 3/6, вес: 0,29г; 0,30г; 0,26г; 0,25г
 </description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="423373577" available="true">
         <name>Подвеска ювелирная "Нежность любви" с бриллиантом</name>
