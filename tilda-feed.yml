@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-10T21:01:16">
+<yml_catalog date="2026-09-11T09:01:20">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -12,9 +12,22 @@
       <category id="1">Украшения</category>
     </categories>
     <offers>
+    <offer id="1556514542" available="false">
+        <name>Серьги ювелирные Гвоздики с бриллиантами</name>
+        <price>176400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>Ювелирные серьги</categoryId>
+        <picture>[object Object]</picture>
+        <description>Серьги из желтого золота 585 пробы с натуральными бриллиантами..
+Диаметр камня бриллианта 3,5 мм, длина рабочей части иглы-винта 5 мм.
+
+Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
+2 брл Кр-57 0,320Ct 3/5, вес: 1,48г</description>
+        <stock>0</stock>
+    </offer>
     <offer id="1556494868" available="false">
         <name>Серьги ювелирные Гвоздики с бриллиантами</name>
-        <price>999999</price>
+        <price>272700</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -24,19 +37,6 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,470Ct 3/6, вес: 1,51г
 2 брл Кр-57 0,440Ct 3/6, вес: 1,49г</description>
-        <stock>0</stock>
-    </offer>
-    <offer id="1556514542" available="false">
-        <name>Серьги ювелирные Гвоздики с бриллиантами</name>
-        <price>999999</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>Ювелирные серьги</categoryId>
-        <picture>[object Object]</picture>
-        <description>Серьги из желтого золота 585 пробы с натуральными бриллиантами..
-Диаметр камня бриллианта 3,5 мм, длина рабочей части иглы-винта 5 мм.
-
-Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
-2 брл Кр-57 0,320Ct 3/5, вес: 1,48г</description>
         <stock>0</stock>
     </offer>
     <offer id="769012937" available="false">
@@ -125,7 +125,7 @@
     </offer>
     <offer id="296888612" available="true">
         <name>Серьги пусеты Шарики с бриллиантами</name>
-        <price>165800</price>
+        <price>145904</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -172,7 +172,7 @@
     </offer>
     <offer id="296888609" available="false">
         <name>Серьги пусеты Шарики с бриллиантами</name>
-        <price>162760</price>
+        <price>114870</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -337,7 +337,7 @@
     </offer>
     <offer id="411748034" available="false">
         <name>Серьги гвоздики с крупными бриллиантами</name>
-        <price>419760</price>
+        <price>336300</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -552,7 +552,7 @@
     </offer>
     <offer id="430031568" available="false">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>114880</price>
+        <price>110760</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -657,7 +657,7 @@
     </offer>
     <offer id="342481535" available="false">
         <name>Серьги шарики золотые с бриллиантами</name>
-        <price>134000</price>
+        <price>121050</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -876,7 +876,7 @@
     </offer>
     <offer id="432648579" available="false">
         <name>Серьги ювелирные с крупными бриллиантами</name>
-        <price>504120</price>
+        <price>336300</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1192,7 +1192,7 @@
     </offer>
     <offer id="1031858993" available="false">
         <name>Серьги ювелирные с бриллиантами</name>
-        <price>440000</price>
+        <price>184500</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1249,7 +1249,7 @@
     </offer>
     <offer id="565821458" available="true">
         <name>Серьги гвоздики ювелирные с бриллиантами</name>
-        <price>290600</price>
+        <price>255728</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1308,7 +1308,7 @@
     </offer>
     <offer id="1252087416" available="true">
         <name>Серьги ювелирные "Шарики" с бриллиантами</name>
-        <price>105975</price>
+        <price>93258</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1334,7 +1334,7 @@
     </offer>
     <offer id="1024313666" available="true">
         <name>Серьги ювелирные платиновые Шарики с бриллиантами</name>
-        <price>194875</price>
+        <price>179285</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1418,7 +1418,7 @@
     </offer>
     <offer id="432620531" available="true">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>105125</price>
+        <price>92510</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1488,7 +1488,7 @@
     </offer>
     <offer id="428936094" available="true">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>99150</price>
+        <price>81180</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1504,7 +1504,7 @@
     </offer>
     <offer id="421886026" available="true">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>76925</price>
+        <price>73848</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1593,7 +1593,7 @@
     </offer>
     <offer id="317361041" available="false">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>70075</price>
+        <price>67272</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1606,7 +1606,7 @@
     </offer>
     <offer id="164622880" available="true">
         <name>Пусеты шарики с бриллиантами маленькие</name>
-        <price>51275</price>
+        <price>45122</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1738,7 +1738,7 @@
     </offer>
     <offer id="1031516883" available="true">
         <name>Серьги ювелирные "Конго" с бриллиантами</name>
-        <price>221560</price>
+        <price>210482</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1855,7 +1855,7 @@
     </offer>
     <offer id="1544314988" available="false">
         <name>Серьги ювелирные "Хвост павлина" с сапфирами и бриллиантами</name>
-        <price>999999</price>
+        <price>1074870</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -2027,7 +2027,7 @@
     </offer>
     <offer id="317361049" available="false">
         <name>Серьги ювелирные с подвесами "Лазурный берег" с бирюзой</name>
-        <price>281720</price>
+        <price>221550</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -2628,7 +2628,7 @@
     </offer>
     <offer id="366669964" available="true">
         <name>Подвеска ювелирная Сердце с сапфиром</name>
-        <price>7000000</price>
+        <price>6200000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -2739,7 +2739,7 @@
     </offer>
     <offer id="1542547205" available="false">
         <name>Серьги ювелирные "Сердца" с бриллиантами</name>
-        <price>999999</price>
+        <price>1538400</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -2865,7 +2865,7 @@
     </offer>
     <offer id="884669943" available="true">
         <name>Серьги ювелирные с изумрудами</name>
-        <price>202360</price>
+        <price>192242</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -2893,7 +2893,7 @@
     </offer>
     <offer id="927028952" available="true">
         <name>Ювелирные серьги с бриллиантами</name>
-        <price>266675</price>
+        <price>245341</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -3191,7 +3191,7 @@
     </offer>
     <offer id="664037168" available="true">
         <name>Серьги ювелирные с изумрудами</name>
-        <price>283750</price>
+        <price>249700</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -3207,7 +3207,7 @@
     </offer>
     <offer id="411748045" available="false">
         <name>Серьги ювелирные бриллиантовые Совы</name>
-        <price>344025</price>
+        <price>330264</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -3248,7 +3248,7 @@
     </offer>
     <offer id="768662598" available="false">
         <name>Кольцо ювелирное "Дерево роз" с бриллиантами</name>
-        <price>177750</price>
+        <price>163530</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -3276,7 +3276,7 @@
     </offer>
     <offer id="377495099" available="true">
         <name>Кольцо ювелирное Цветок с бриллиантом</name>
-        <price>85475</price>
+        <price>82056</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -3306,7 +3306,7 @@
     </offer>
     <offer id="367739805" available="false">
         <name>Золотое кольцо "Сказочная ветвь" с бриллиантами</name>
-        <price>63250</price>
+        <price>60720</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -3322,7 +3322,7 @@
     </offer>
     <offer id="367739803" available="true">
         <name>Золотое кольцо "Сказочная ветвь" с бриллиантами</name>
-        <price>63250</price>
+        <price>60720</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -3535,7 +3535,7 @@
     </offer>
     <offer id="195320296" available="true">
         <name>Серьги ювелирные "Сердечки" с аметистами</name>
-        <price>59750</price>
+        <price>52580</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -3549,7 +3549,7 @@
     </offer>
     <offer id="322292260" available="true">
         <name>Кольцо ювелирное "Amore" с бриллиантами</name>
-        <price>155550</price>
+        <price>136884</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -3694,7 +3694,7 @@
     </offer>
     <offer id="332697460" available="false">
         <name>Кольцо золотое с пятикаратным бриллиантом</name>
-        <price>9200000</price>
+        <price>8200000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -4005,7 +4005,7 @@
     </offer>
     <offer id="848871471" available="false">
         <name>Кольцо перстень "Шапка Мономаха" с драгоценными камнями</name>
-        <price>1965000</price>
+        <price>1729200</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -4033,7 +4033,7 @@
     </offer>
     <offer id="446063508" available="true">
         <name>Кольцо ювелирное перстень "Взгляд дракона" с турмалином</name>
-        <price>365350</price>
+        <price>321508</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -4090,7 +4090,7 @@
     </offer>
     <offer id="333349214" available="true">
         <name>Золотое кольцо перстень "Часы" с бриллиантами</name>
-        <price>1319650</price>
+        <price>1161292</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -4380,7 +4380,7 @@
     </offer>
     <offer id="155892605" available="true">
         <name>Подвеска ювелирная "Колдовской лист" с турмалинами</name>
-        <price>100750</price>
+        <price>88660</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -4435,7 +4435,7 @@
     </offer>
     <offer id="884669950" available="true">
         <name>Серьги ювелирные "Розы" с аметистами</name>
-        <price>147680</price>
+        <price>140296</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -4520,7 +4520,7 @@
     </offer>
     <offer id="330759990" available="true">
         <name>Серьги ювелирные "Цветик-Семицветик" с фианитами</name>
-        <price>41275</price>
+        <price>39624</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -4534,7 +4534,7 @@
     </offer>
     <offer id="330759984" available="true">
         <name>Серьги детские золотые Цветик-Семицветик</name>
-        <price>41025</price>
+        <price>36102</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -4857,7 +4857,7 @@
     </offer>
     <offer id="335628008" available="true">
         <name>Кольцо золотое c бриллиантом принцесса</name>
-        <price>229600</price>
+        <price>218120</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -4927,7 +4927,7 @@
     </offer>
     <offer id="182618523" available="false">
         <name>Ажурное кольцо с бриллиантами</name>
-        <price>127520</price>
+        <price>114768</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -4982,7 +4982,7 @@
     </offer>
     <offer id="701922973" available="true">
         <name>Кольцо ювелирное "Магия патронуса" с сапфиром</name>
-        <price>208500</price>
+        <price>183480</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -5311,7 +5311,7 @@
     </offer>
     <offer id="910194299" available="true">
         <name>Ювелирное кольцо с бриллиантами и шпинелью</name>
-        <price>145300</price>
+        <price>127864</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -5341,7 +5341,7 @@
     </offer>
     <offer id="833943105" available="true">
         <name>Кольцо ювелирное с бриллиантами</name>
-        <price>237500</price>
+        <price>209000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -5637,7 +5637,7 @@
     </offer>
     <offer id="588740096" available="true">
         <name>Серьги ювелирные "Дерево роз" с бриллиантами</name>
-        <price>418750</price>
+        <price>368500</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -6319,7 +6319,7 @@
     </offer>
     <offer id="331753446" available="false">
         <name>Серьги золотые сердечки "Пульсация чувств" с бриллиантами</name>
-        <price>603425</price>
+        <price>531014</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -6653,7 +6653,7 @@
     </offer>
     <offer id="1179442967" available="true">
         <name>Подвеска ювелирная Сердечко с бриллиантом</name>
-        <price>10750</price>
+        <price>12300</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -6799,7 +6799,7 @@
     </offer>
     <offer id="423373577" available="true">
         <name>Подвеска ювелирная "Нежность любви" с бриллиантом</name>
-        <price>11250</price>
+        <price>12300</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -7026,7 +7026,7 @@
     </offer>
     <offer id="176149377" available="false">
         <name>Подвеска ювелирная "Хранитель любви" с бриллиантом</name>
-        <price>71750</price>
+        <price>68880</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -7356,7 +7356,7 @@
     </offer>
     <offer id="1252294225" available="false">
         <name>Подвеска ювелирная "Драгоценность души" с бриллиантами</name>
-        <price>66925</price>
+        <price>64248</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -7386,7 +7386,7 @@
     </offer>
     <offer id="1011786308" available="false">
         <name>Подвеска ювелирная "Драгоценность души" с бриллиантами</name>
-        <price>70075</price>
+        <price>67272</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -7487,7 +7487,7 @@
     </offer>
     <offer id="321713788" available="true">
         <name>Ювелирная подвеска "Драгоценность души" с бриллиантами</name>
-        <price>73500</price>
+        <price>70560</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -7506,7 +7506,7 @@
     </offer>
     <offer id="318332123" available="false">
         <name>Ювелирная подвеска "Драгоценность души"</name>
-        <price>71800</price>
+        <price>68928</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -7664,7 +7664,7 @@
     </offer>
     <offer id="169356573" available="false">
         <name>Ювелирная подвеска "Драгоценность души"</name>
-        <price>68375</price>
+        <price>65640</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -7919,7 +7919,7 @@
     </offer>
     <offer id="331753451" available="true">
         <name>Серьги ювелирные "Лотосы" с цветными бриллиантами</name>
-        <price>231500</price>
+        <price>203720</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -8045,7 +8045,7 @@
     </offer>
     <offer id="1179756647" available="true">
         <name>Кольцо ювелирное "Звезда морей" с жемчугом</name>
-        <price>343575</price>
+        <price>302346</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -8234,7 +8234,7 @@
     </offer>
     <offer id="196670801" available="true">
         <name>Кольцо золотое с жемчугом</name>
-        <price>350000</price>
+        <price>308000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -8498,7 +8498,7 @@
     </offer>
     <offer id="1011786193" available="true">
         <name>Подвеска ювелирная "Минимализм" с бриллиантом</name>
-        <price>50600</price>
+        <price>48070</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -8544,7 +8544,7 @@
     </offer>
     <offer id="848906010" available="false">
         <name>Брошь ювелирная "Жар Птица" с бриллиантами</name>
-        <price>7800000</price>
+        <price>7000000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные броши</categoryId>
         <picture>[object Object]</picture>
@@ -8594,7 +8594,7 @@
     </offer>
     <offer id="820532166" available="true">
         <name>Серьги ювелирные листья с бриллиантами</name>
-        <price>164000</price>
+        <price>155800</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -9023,7 +9023,7 @@
     </offer>
     <offer id="331528608" available="true">
         <name>Подвеска ювелирная "Золотая рыбка" с бриллиантами</name>
-        <price>199640</price>
+        <price>189658</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -9266,7 +9266,7 @@
     </offer>
     <offer id="969302053" available="true">
         <name>Одиночная серьга-моно ювелирная с аметистом</name>
-        <price>53850</price>
+        <price>47388</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -9281,7 +9281,7 @@
     </offer>
     <offer id="969302034" available="true">
         <name>Одиночная серьга-моно ювелирная с аметистом</name>
-        <price>53000</price>
+        <price>46640</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -9470,7 +9470,7 @@
     </offer>
     <offer id="215571064" available="true">
         <name>Одиночная серьга ювелирная Хризопраз в бриллиантах</name>
-        <price>105875</price>
+        <price>93170</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -9764,7 +9764,7 @@
     </offer>
     <offer id="432771416" available="true">
         <name>Кольцо платиновое с фантазийным розовым бриллиантом</name>
-        <price>2357175</price>
+        <price>2074314</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -9808,7 +9808,7 @@
     </offer>
     <offer id="333349226" available="false">
         <name>Кольцо ювелирное с бриллиантом</name>
-        <price>721175</price>
+        <price>692328</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -9967,7 +9967,7 @@
     </offer>
     <offer id="884670123" available="true">
         <name>Серьги ювелирные с изумрудами</name>
-        <price>111100</price>
+        <price>102212</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -10617,7 +10617,7 @@
     </offer>
     <offer id="767007065" available="true">
         <name>Подвеска ювелирная с сапфиром</name>
-        <price>61500</price>
+        <price>59040</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -10868,7 +10868,7 @@
     </offer>
     <offer id="430031723" available="true">
         <name>Одиночная моно-серьга ювелирная цветок</name>
-        <price>106000</price>
+        <price>93280</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -11346,7 +11346,7 @@
     </offer>
     <offer id="1252087476" available="true">
         <name>Серьги ювелирные "Тонкие линии" с бриллиантами</name>
-        <price>336400</price>
+        <price>319580</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -11416,7 +11416,7 @@
     </offer>
     <offer id="415401653" available="true">
         <name>Кольцо ювелирное с изумрудом</name>
-        <price>218425</price>
+        <price>192214</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -11534,7 +11534,7 @@
     </offer>
     <offer id="276343202" available="true">
         <name>Золотое кольцо с крупным изумрудом</name>
-        <price>108550</price>
+        <price>95524</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -11679,7 +11679,7 @@
     </offer>
     <offer id="446063514" available="false">
         <name>Кольцо ювелирное "Италика"</name>
-        <price>151175</price>
+        <price>139081</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -12405,7 +12405,7 @@
     </offer>
     <offer id="468779142" available="true">
         <name>Серьги ювелирные с алой шпинелью</name>
-        <price>166425</price>
+        <price>146454</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -13127,7 +13127,7 @@
     </offer>
     <offer id="197771440" available="true">
         <name>Ювелирная подвеска Райское яблоко</name>
-        <price>112825</price>
+        <price>99286</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -13246,7 +13246,7 @@
     </offer>
     <offer id="421886036" available="true">
         <name>Серьги ювелирные золотые Колоски</name>
-        <price>175040</price>
+        <price>166288</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -13458,7 +13458,7 @@
     </offer>
     <offer id="1024313680" available="false">
         <name>Серьга-моно ювелирная платиновая Шарик с бриллиантом</name>
-        <price>153160</price>
+        <price>145502</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -13740,7 +13740,7 @@
     </offer>
     <offer id="176848885" available="true">
         <name>Серьги ювелирные со шпинелью</name>
-        <price>113375</price>
+        <price>99770</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -13907,7 +13907,7 @@
     </offer>
     <offer id="391598433" available="true">
         <name>Кольцо золотое с бриллиантом</name>
-        <price>574250</price>
+        <price>551280</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -14026,7 +14026,7 @@
     </offer>
     <offer id="321774424" available="true">
         <name>Кольцо с бриллиантом</name>
-        <price>160675</price>
+        <price>141394</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -14720,7 +14720,7 @@
     </offer>
     <offer id="170716056" available="false">
         <name>Золотое кольцо "Омут любви" с бриллиантами</name>
-        <price>120500</price>
+        <price>115680</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -14768,7 +14768,7 @@
     </offer>
     <offer id="835898416" available="true">
         <name>Ювелирные серьги с бриллиантами</name>
-        <price>242725</price>
+        <price>223307</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -14809,7 +14809,7 @@
     </offer>
     <offer id="783637511" available="true">
         <name>Кольцо ювелирное с изумрудом</name>
-        <price>158640</price>
+        <price>150708</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -15132,7 +15132,7 @@
     </offer>
     <offer id="535823027" available="true">
         <name>Кольцо ювелирное с коричневым бриллиантом</name>
-        <price>620000</price>
+        <price>570400</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -15248,7 +15248,7 @@
     </offer>
     <offer id="783637494" available="false">
         <name>Кольцо ювелирное с бриллиантами</name>
-        <price>1880350</price>
+        <price>1654708</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -15303,7 +15303,7 @@
     </offer>
     <offer id="493159050" available="true">
         <name>Кольцо ювелирное с фантазийным бриллиантом</name>
-        <price>664225</price>
+        <price>637656</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -15317,7 +15317,7 @@
     </offer>
     <offer id="493159027" available="true">
         <name>Кольцо ювелирное с бриллиантами</name>
-        <price>592700</price>
+        <price>545284</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -15373,7 +15373,7 @@
     </offer>
     <offer id="156271898" available="true">
         <name>Кольцо ювелирное с бриллиантами</name>
-        <price>2459300</price>
+        <price>2164184</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -15757,9 +15757,9 @@
 1 брл Кр-57 0,500Ct 2/6, вес: 0.83г</description>
         <stock>0</stock>
     </offer>
-    <offer id="1179745113" available="true">
+    <offer id="1179745113" available="false">
         <name>Подвеска ювелирная "Бегунок" с бриллиантом</name>
-        <price>129925</price>
+        <price>114334</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -15770,7 +15770,7 @@
 
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,250Ct 3/6, вес: 0,57г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="910000605" available="false">
         <name>Ювелирная подвеска с бриллиантом</name>
@@ -15831,7 +15831,7 @@
     </offer>
     <offer id="896151626" available="false">
         <name>Подвеска ювелирная "Бегунок" с бриллиантом</name>
-        <price>246160</price>
+        <price>233852</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -16738,7 +16738,7 @@
     </offer>
     <offer id="927028938" available="true">
         <name>Ювелирные серьги с сапфирами и бриллиантами</name>
-        <price>138475</price>
+        <price>127397</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -16767,7 +16767,7 @@
     </offer>
     <offer id="790636513" available="true">
         <name>Кольцо ювелирное с дорожкой бриллиантов</name>
-        <price>276925</price>
+        <price>265848</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -17061,7 +17061,7 @@
     </offer>
     <offer id="493159063" available="true">
         <name>Кольцо ювелирное с бриллиантами</name>
-        <price>353250</price>
+        <price>310860</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -17103,7 +17103,7 @@
     </offer>
     <offer id="471349007" available="true">
         <name>Кольцо ювелирное с коньячным бриллиантом</name>
-        <price>387000</price>
+        <price>340560</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -18032,7 +18032,7 @@
     </offer>
     <offer id="817685871" available="false">
         <name>Кольцо ювелирное с бриллиантом</name>
-        <price>117250</price>
+        <price>107870</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -18062,7 +18062,7 @@
     </offer>
     <offer id="318335433" available="true">
         <name>Кольцо ювелирное «Поцелуй солнца» с бриллиантами</name>
-        <price>203000</price>
+        <price>178640</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -18275,7 +18275,7 @@
     </offer>
     <offer id="786719434" available="false">
         <name>Колье ювелирное "Наброски фраз" с бриллиантами</name>
-        <price>2051250</price>
+        <price>1805100</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные колье</categoryId>
         <picture>[object Object]</picture>
@@ -19343,7 +19343,7 @@
     </offer>
     <offer id="396015781" available="true">
         <name>Серьги ювелирные с крупными бриллиантами</name>
-        <price>1860575</price>
+        <price>1637306</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -20473,7 +20473,7 @@
     </offer>
     <offer id="347520383" available="true">
         <name>Кольцо ювелирное</name>
-        <price>147700</price>
+        <price>129976</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -21082,7 +21082,7 @@
     </offer>
     <offer id="214737233" available="true">
         <name>Серьги золотые гаечки с бриллиантами</name>
-        <price>253000</price>
+        <price>222640</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -22077,7 +22077,7 @@
     </offer>
     <offer id="421886035" available="false">
         <name>Серьги ювелирные Трансформеры с цаворитами</name>
-        <price>119650</price>
+        <price>105292</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -23288,7 +23288,7 @@
     </offer>
     <offer id="234918152" available="false">
         <name>Ювелирное кольцо перстень "Эдельвейс" с аметистом</name>
-        <price>355750</price>
+        <price>313060</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -23839,7 +23839,7 @@
     </offer>
     <offer id="243817734" available="true">
         <name>Подвеска золотая с бриллиантом</name>
-        <price>310425</price>
+        <price>273174</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
