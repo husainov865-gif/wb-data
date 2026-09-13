@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-13T09:01:28">
+<yml_catalog date="2026-09-13T21:01:14">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -19502,7 +19502,7 @@
         <description>Прекрасные золотые серьги пусеты гвоздики из белого золота 585 пробы с крупными якутскими бриллиантами коньячного цвета огранки радиант. Красивый каст с 4 крапанами. Надежный винтовой замок. Очень удобные в повседневной носке. Размер пусет: длина крючка 10 мм, рабочая часть 5 мм. Покрыто родием. Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 2 брл Рад-57 0,890Ct 9-4/8 коньячный, вес: 1,69.</description>
         <stock>0</stock>
     </offer>
-    <offer id="491779140" available="false">
+    <offer id="491779140" available="true">
         <name>Подвеска ювелирная "Золотая рыбка" с бриллиантами</name>
         <price>158640</price>
         <currencyId>RUB</currencyId>
@@ -19517,7 +19517,7 @@
 1 брл Кр-57 0,025Ct 3/6 ,25 брл Кр-57 0,170Ct 3/5, вес: 2,18г
 
 </description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="429062327" available="false">
         <name>Подвеска ювелирная "Рыбка"</name>
