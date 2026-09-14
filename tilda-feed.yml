@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-14T09:01:24">
+<yml_catalog date="2026-09-14T21:01:15">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -7618,7 +7618,7 @@
 8 брл Кр-57 0,030Ct 3/6, вес: 1,16г;
 8 брл Кр-57 0,030Ct 3/6, вес: 1,09г;
 8 брл Кр-57 0,030Ct 3/6, вес: 0,96г</description>
-        <stock>2</stock>
+        <stock>1</stock>
     </offer>
     <offer id="301593279" available="false">
         <name>Золотой Крест Нерль с бриллиантом</name>
@@ -16484,7 +16484,7 @@
 1 брл Кушон-57 1,060Ct 9-4/6 ,1 брл Кушон-57 1,080Ct 9-4/7, вес: 4,48г</description>
         <stock>0</stock>
     </offer>
-    <offer id="347520387" available="true">
+    <offer id="347520387" available="false">
         <name>Кольцо золотое двойная дорожка с бриллиантами</name>
         <price>283750</price>
         <currencyId>RUB</currencyId>
@@ -16496,7 +16496,7 @@
 
 Вставка из природных натуральных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 р.р 18.5 - 72 брл Кр-57 0,860Ct 3/6, вес: 5,28г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="927036545" available="false">
         <name>Кольцо ювелирное с сапфиром</name>
