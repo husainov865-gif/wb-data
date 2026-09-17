@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-16T21:01:19">
+<yml_catalog date="2026-09-17T09:01:24">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -6236,7 +6236,7 @@
 18 брл Кр-57 0,320Ct 3/6, вес: 1,86г</description>
         <stock>0</stock>
     </offer>
-    <offer id="697251586" available="true">
+    <offer id="697251586" available="false">
         <name>Подвеска ювелирная Крест широкий с бриллиантами</name>
         <price>287500</price>
         <currencyId>RUB</currencyId>
@@ -6247,7 +6247,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 105 брл Кр-57 0,750Ct 3/6, вес: 5,31г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="1009816358" available="false">
         <name>Серьги ювелирные Сердечки с бриллиантами</name>
