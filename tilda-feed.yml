@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-19T09:01:35">
+<yml_catalog date="2026-09-19T21:01:22">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -2853,7 +2853,7 @@
 2 брл Кр-57 0,060Ct 3/6, вес: 2,03г</description>
         <stock>0</stock>
     </offer>
-    <offer id="428936094" available="true">
+    <offer id="428936094" available="false">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
         <price>81180</price>
         <currencyId>RUB</currencyId>
@@ -2867,7 +2867,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,130Ct 2/6, вес: 2,22г; 2,23г
 2 брл Кр-57 0,150Ct 2/6, вес: 2,29г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="421886026" available="true">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
@@ -10823,7 +10823,7 @@
 25 брл Кр-17 0,080Ct 2/2, вес: 4,45.</description>
         <stock>0</stock>
     </offer>
-    <offer id="244754316" available="false">
+    <offer id="244754316" available="true">
         <name>Ювелирная подвеска Жёлудь из серебра</name>
         <price>32400</price>
         <currencyId>RUB</currencyId>
@@ -10834,7 +10834,7 @@
 Диаметр шляпки 18,5 мм. Диаметр ядрышка 15 мм. Высота подвески с колечком 35 мм, без колечка 28 мм, диаметр колечка внутри 8 мм.
 
 Вес: 13,57г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="182832174" available="false">
         <name>Ювелирная подвеска Ромашка</name>
