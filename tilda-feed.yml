@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-21T09:01:28">
+<yml_catalog date="2026-09-21T21:01:19">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -12,6 +12,20 @@
       <category id="1">Украшения</category>
     </categories>
     <offers>
+    <offer id="1606866885" available="false">
+        <name>Серьга-моно с сапфиром и бриллиантами</name>
+        <price>999999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>Ювелирные серьги</categoryId>
+        <picture>[object Object]</picture>
+        <description>Серьга-моно из белого золота 585 пробы с натуральным сапфиром и натуральными бриллиантами. Покрытие родий.
+Диаметр декоративной части 8,3 мм мм, длина рабочей части иглы-винта 5 мм.
+Диаметр камня сапфира 5 мм.
+
+Вставка из натуральных природных драгоценных камней сапфира и  бриллиантов (Бриллианты АЛРОСА, Якутия):
+10 брл Кр-57 0,140Ct 3/6 ,1 спф Кр 5,00 0,730Ct 2/2, вес: 1,34г</description>
+        <stock>0</stock>
+    </offer>
     <offer id="783927464" available="false">
         <name>Подвеска ювелирная Юла из желтого золота</name>
         <price>51275</price>
@@ -64,20 +78,6 @@
 
 Вставка из натуральных природных камней цитринов:
 2 цтрн 8,00 3,880Ct, вес: 2,03г</description>
-        <stock>0</stock>
-    </offer>
-    <offer id="1606866885" available="false">
-        <name>Серьга-моно с сапфиром и бриллиантами</name>
-        <price>999999</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>Ювелирные серьги</categoryId>
-        <picture>[object Object]</picture>
-        <description>Серьга-моно из белого золота 585 пробы с натуральным сапфиром и натуральными бриллиантами. Покрытие родий.
-Диаметр декоративной части 8,3 мм мм, длина рабочей части иглы-винта 5 мм.
-Диаметр камня сапфира 5 мм.
-
-Вставка из натуральных природных драгоценных камней сапфира и  бриллиантов (Бриллианты АЛРОСА, Якутия):
-10 брл Кр-57 0,140Ct 3/6 ,1 спф Кр 5,00 0,730Ct 2/2, вес: 1,34г</description>
         <stock>0</stock>
     </offer>
     <offer id="839893973" available="false">
@@ -6152,7 +6152,7 @@
         <description>Кольцо из платины 950 пробы с натуральными бриллиантами формы огранки Маркиз.  Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 12 брл Мр-55 0,850Ct 2/3, вес: 2,28</description>
         <stock>0</stock>
     </offer>
-    <offer id="195320296" available="true">
+    <offer id="195320296" available="false">
         <name>Серьги ювелирные "Сердечки" с аметистами</name>
         <price>52580</price>
         <currencyId>RUB</currencyId>
@@ -6164,7 +6164,7 @@
 
 Вставка из натуральных природных полудрагоценных камней аметистов: 
 2 амт Сердце 1,380Ct, вес: 1,84г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="322292260" available="true">
         <name>Кольцо ювелирное "Amore" с бриллиантами</name>
@@ -9538,7 +9538,7 @@
     </offer>
     <offer id="317369476" available="true">
         <name>Декоративный Крестик с бриллиантами</name>
-        <price>34175</price>
+        <price>30074</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
