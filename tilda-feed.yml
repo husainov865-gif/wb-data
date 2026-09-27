@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-27T09:01:28">
+<yml_catalog date="2026-09-27T21:01:26">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -16614,7 +16614,7 @@
 1 брл Кушон 1,050Ct 8-5/5 ,2 брл Тр-25 0,280Ct 2/3, вес: 4,45.</description>
         <stock>0</stock>
     </offer>
-    <offer id="156271898" available="true">
+    <offer id="156271898" available="false">
         <name>Кольцо ювелирное с бриллиантами</name>
         <price>2164184</price>
         <currencyId>RUB</currencyId>
@@ -16626,7 +16626,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 1 брл Ов-57 1,520Ct 8-5/6 ,2 брл Фант-49 0,430Ct 3/5, вес: 4,14</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="140348075" available="false">
         <name>Золотое кольцо с желтым бриллиантом</name>
@@ -20716,19 +20716,6 @@
 р.р 17.0 - </description>
         <stock>0</stock>
     </offer>
-    <offer id="909821815" available="false">
-        <name>Серьги ювелирные "Шаль" с фианитами</name>
-        <price>258125</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>Ювелирные серьги</categoryId>
-        <picture>[object Object]</picture>
-        <description>Серьги из белого золота 585 пробы с фианитами. Покрытие родий.
-Размер декоративной части 21х10,5 мм, глубина швензы 10 мм, длина рабочей части иглы-крючка 6,3 мм.
-
-Вставка из камней фианитов:
-100 фианит недр. Кр 2,640Ct бесцветный, вес: 6,37г</description>
-        <stock>0</stock>
-    </offer>
     <offer id="884669893" available="false">
         <name>Серьги ювелирные с бриллиантами</name>
         <price>80350</price>
@@ -20741,6 +20728,19 @@
 
 Вставка из натуральных природных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,130Ct 4/6, вес: 1,85г</description>
+        <stock>0</stock>
+    </offer>
+    <offer id="909821815" available="false">
+        <name>Серьги ювелирные "Шаль" с фианитами</name>
+        <price>258125</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>Ювелирные серьги</categoryId>
+        <picture>[object Object]</picture>
+        <description>Серьги из белого золота 585 пробы с фианитами. Покрытие родий.
+Размер декоративной части 21х10,5 мм, глубина швензы 10 мм, длина рабочей части иглы-крючка 6,3 мм.
+
+Вставка из камней фианитов:
+100 фианит недр. Кр 2,640Ct бесцветный, вес: 6,37г</description>
         <stock>0</stock>
     </offer>
     <offer id="909747815" available="false">
@@ -23678,7 +23678,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия) и турмалинов: 1 брл Кр-57 0,006Ct 3/6, 1 трмл Гр 0,190Ct, вес: 0,38</description>
         <stock>0</stock>
     </offer>
-    <offer id="155887774" available="true">
+    <offer id="155887774" available="false">
         <name>Подвеска ювелирная "Капелька" с турмалином</name>
         <price>25650</price>
         <currencyId>RUB</currencyId>
@@ -23690,7 +23690,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 1 брл Кр-57 0,006Ct 3/5 ,1 трмл Гр 5,00*3,00 0,170Ct розовый (рубелит), вес: 0,35г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="154893440" available="false">
         <name>Подвеска Капелька</name>
