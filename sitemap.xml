@@ -11076,6 +11076,18 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://electrum-miuz.ru/product?id=297561778</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://electrum-miuz.ru/product?id=175486789</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://electrum-miuz.ru/product?id=297570861</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>daily</changefreq>
@@ -11088,25 +11100,13 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://electrum-miuz.ru/product?id=175486789</loc>
-        <lastmod>2026-09-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://electrum-miuz.ru/product?id=300369191</loc>
-        <lastmod>2026-09-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
         <loc>https://electrum-miuz.ru/product?id=170851117</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://electrum-miuz.ru/product?id=297561778</loc>
+        <loc>https://electrum-miuz.ru/product?id=300369191</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -11136,25 +11136,7 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://electrum-miuz.ru/product?id=337736248</loc>
-        <lastmod>2026-09-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://electrum-miuz.ru/product?id=333349242</loc>
-        <lastmod>2026-09-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
         <loc>https://electrum-miuz.ru/product?id=321628492</loc>
-        <lastmod>2026-09-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://electrum-miuz.ru/product?id=318335455</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -11166,19 +11148,31 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://electrum-miuz.ru/product?id=432771418</loc>
-        <lastmod>2026-09-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
         <loc>https://electrum-miuz.ru/product?id=276110445</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://electrum-miuz.ru/product?id=629053705</loc>
+        <loc>https://electrum-miuz.ru/product?id=333349242</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://electrum-miuz.ru/product?id=318335455</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://electrum-miuz.ru/product?id=337736248</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://electrum-miuz.ru/product?id=432771418</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -11190,7 +11184,7 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://electrum-miuz.ru/product?id=432648571</loc>
+        <loc>https://electrum-miuz.ru/product?id=331753449</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -11202,13 +11196,19 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://electrum-miuz.ru/product?id=432648567</loc>
+        <loc>https://electrum-miuz.ru/product?id=629053705</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://electrum-miuz.ru/product?id=331753449</loc>
+        <loc>https://electrum-miuz.ru/product?id=432648571</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://electrum-miuz.ru/product?id=432648567</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
