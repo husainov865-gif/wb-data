@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-01T09:01:25">
+<yml_catalog date="2026-10-01T21:01:21">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -4488,7 +4488,7 @@
 Вставка из натуральных природных полудрагоценных камней топазов:  1 тпз Сердце 1,050Ct, вес: 2,59</description>
         <stock>0</stock>
     </offer>
-    <offer id="170716056" available="true">
+    <offer id="170716056" available="false">
         <name>Золотое кольцо "Омут любви" с бриллиантами</name>
         <price>115680</price>
         <currencyId>RUB</currencyId>
@@ -4501,7 +4501,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 р.р 17.5 - 72 брл Кр-57 0,200Ct 3/5, вес: 2,99г
 р.р 17.5 - 72 брл Кр-57 0,200Ct 3/6, вес: 3,03г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="140342864" available="false">
         <name>Кольцо с аметистом и бриллиантами</name>
