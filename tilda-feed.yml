@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-01T21:01:21">
+<yml_catalog date="2026-10-02T09:01:29">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -41,7 +41,7 @@
     </offer>
     <offer id="1544314988" available="false">
         <name>Серьги ювелирные "Хвост павлина" с сапфирами и бриллиантами</name>
-        <price>859896</price>
+        <price>429948</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -6273,7 +6273,7 @@
     </offer>
     <offer id="1543134286" available="false">
         <name>Кольцо ювелирное перстень с бриллиантами</name>
-        <price>2724000</price>
+        <price>1362000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -10665,7 +10665,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов драгоценного изумруда (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,010Ct 2/6, вес: 0,25г; 0,26г</description>
-        <stock>3</stock>
+        <stock>2</stock>
     </offer>
     <offer id="1011786271" available="true">
         <name>Подвеска ювелирная Сердечко с бриллиантом</name>
@@ -10811,7 +10811,7 @@
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,010Ct 3/6, вес: 0,26г; 0,27г; 0,2г; 0,28г, 0,21г 
 </description>
-        <stock>2</stock>
+        <stock>3</stock>
     </offer>
     <offer id="340718477" available="false">
         <name>Подвеска золоте Сердце с бриллиантом</name>
