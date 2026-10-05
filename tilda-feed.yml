@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-04T21:01:22">
+<yml_catalog date="2026-10-05T09:01:21">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -11369,7 +11369,7 @@
 8 брл Кр-57 0,030Ct 3/6, вес: 1,16г;
 8 брл Кр-57 0,030Ct 3/6, вес: 1,09г;
 8 брл Кр-57 0,030Ct 3/6, вес: 0,96г</description>
-        <stock>1</stock>
+        <stock>2</stock>
     </offer>
     <offer id="301593279" available="false">
         <name>Золотой Крест Нерль с бриллиантом</name>
