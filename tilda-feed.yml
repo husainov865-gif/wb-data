@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-09T09:01:33">
+<yml_catalog date="2026-10-09T21:01:18">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -1191,6 +1191,20 @@
 2 брл Кр-57 1,420Ct 8-5/8, вес: 3,09г</description>
         <stock>0</stock>
     </offer>
+    <offer id="687283919" available="false">
+        <name>Кольцо ювелирное "Звезда морей" с жемчугом</name>
+        <price>430750</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>Ювелирные кольца</categoryId>
+        <picture>[object Object]</picture>
+        <description>Кольцо из желтого золота 750 пробы с натуральным жемчугом и натуральными бриллиантами.
+Размер звезды с бриллиантами 24х20,5 мм, диаметр жемчужины 7,8 мм. Ширина шинки 2-3,5 мм, толщина шинки 1,5-2,5 мм
+
+Вставка из натуральных природных драгоценных камней бриллиантов и жемчуга (Бриллианты АЛРОСА, Якутия):
+р.р 17.5 - 250 брл Кр-57 0,830Ct 3/4 ,1 жмч 3,350Ct, вес:7,07г
+</description>
+        <stock>0</stock>
+    </offer>
     <offer id="783637483" available="false">
         <name>Кольцо ювелирное "Жемчужный берег" с бриллиантами</name>
         <price>441025</price>
@@ -1204,20 +1218,6 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов и натуральной жемчужины (Бриллианты АЛРОСА, Якутия):
 р.р 16.5 - 44 брл Кр-57 0,620Ct 3/5 ,5,33 жмч, вес: 8,12г</description>
-        <stock>0</stock>
-    </offer>
-    <offer id="687283919" available="false">
-        <name>Кольцо ювелирное "Звезда морей" с жемчугом</name>
-        <price>430750</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>Ювелирные кольца</categoryId>
-        <picture>[object Object]</picture>
-        <description>Кольцо из желтого золота 750 пробы с натуральным жемчугом и натуральными бриллиантами.
-Размер звезды с бриллиантами 24х20,5 мм, диаметр жемчужины 7,8 мм. Ширина шинки 2-3,5 мм, толщина шинки 1,5-2,5 мм
-
-Вставка из натуральных природных драгоценных камней бриллиантов и жемчуга (Бриллианты АЛРОСА, Якутия):
-р.р 17.5 - 250 брл Кр-57 0,830Ct 3/4 ,1 жмч 3,350Ct, вес:7,07г
-</description>
         <stock>0</stock>
     </offer>
     <offer id="1721864571" available="false">
@@ -11171,7 +11171,7 @@
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,010Ct 3/6, вес: 0,26г; 0,27г; 0,2г; 0,28г, 0,21г 
 </description>
-        <stock>3</stock>
+        <stock>4</stock>
     </offer>
     <offer id="340718477" available="false">
         <name>Подвеска золоте Сердце с бриллиантом</name>
@@ -20460,7 +20460,7 @@
     </offer>
     <offer id="396015781" available="true">
         <name>Серьги ювелирные с крупными бриллиантами</name>
-        <price>1488460</price>
+        <price>1263400</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
