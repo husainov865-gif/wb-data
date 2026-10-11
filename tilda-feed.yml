@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-11T09:01:20">
+<yml_catalog date="2026-10-11T21:01:19">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -2390,7 +2390,7 @@
     </offer>
     <offer id="493159063" available="true">
         <name>Кольцо ювелирное с бриллиантами</name>
-        <price>268470</price>
+        <price>240210</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -3208,7 +3208,7 @@
     </offer>
     <offer id="1721864501" available="false">
         <name>Кольцо ювелирное с бриллиантами</name>
-        <price>170250</price>
+        <price>124850</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -8334,7 +8334,7 @@
 17.5 - 1 брл Кр-57 0,100Ct 6/4 ,8 брл Кр-57 0,140Ct 4/4, вес: 2,45г</description>
         <stock>0</stock>
     </offer>
-    <offer id="377495099" available="false">
+    <offer id="377495099" available="true">
         <name>Кольцо ювелирное Цветок с бриллиантом</name>
         <price>82056</price>
         <currencyId>RUB</currencyId>
@@ -8348,7 +8348,7 @@
 р.р 17.0 - 1 брл Кр-57 0,060Ct 4/5, вес: 2,62г
 р.р 16.5 - 1 брл Кр-57 0,060Ct 3/6, вес: 2,57г
 р.р 16.5 - 1 брл Кр-57 0,080Ct 3/6, вес: 2,45г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="370887042" available="false">
         <name>Кольцо золотое "Лед и пламя"</name>
@@ -11143,7 +11143,7 @@
 </description>
         <stock>0</stock>
     </offer>
-    <offer id="429062333" available="true">
+    <offer id="429062333" available="false">
         <name>Подвеска золотая "Нежность любви" с бриллиантом</name>
         <price>9680</price>
         <currencyId>RUB</currencyId>
@@ -11156,7 +11156,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов  драгоценного изумруда (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,010Ct 3/6, вес: 0,29г; 0,30г; 0,26г; 0,25г
 </description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="423373577" available="true">
         <name>Подвеска ювелирная "Нежность любви" с бриллиантом</name>
@@ -11729,7 +11729,7 @@
 8 брл Кр-57 0,030Ct 3/6, вес: 1,16г;
 8 брл Кр-57 0,030Ct 3/6, вес: 1,09г;
 8 брл Кр-57 0,030Ct 3/6, вес: 0,96г</description>
-        <stock>2</stock>
+        <stock>1</stock>
     </offer>
     <offer id="301593279" available="false">
         <name>Золотой Крест Нерль с бриллиантом</name>
@@ -13933,7 +13933,7 @@
     </offer>
     <offer id="1009542169" available="true">
         <name>Кольцо ювелирное "Сочная мята" с изумрудом</name>
-        <price>179475</price>
+        <price>143580</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -18883,7 +18883,7 @@
 1 спф Кр 5,00 0,430Ct 2/1, вес: 1.17г.</description>
         <stock>0</stock>
     </offer>
-    <offer id="588888694" available="true">
+    <offer id="588888694" available="false">
         <name>Подвеска ювелирная с бриллиантом</name>
         <price>84238</price>
         <currencyId>RUB</currencyId>
@@ -18895,7 +18895,7 @@
 
 Вставка из наутрального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,150Ct 3/3, вес: 1,21г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="588881631" available="false">
         <name>Подвеска ювелирная "Кассиопея" с бриллиантом</name>
