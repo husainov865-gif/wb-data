@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-16T21:01:29">
+<yml_catalog date="2026-10-17T09:01:26">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -189,7 +189,7 @@
     </offer>
     <offer id="877145215" available="true">
         <name>Серьга-моно ювелирная с бриллиантом</name>
-        <price>122659</price>
+        <price>111993</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -423,9 +423,9 @@
 р.р 18.0 - 1 брл Кушон-57 0,910Ct 8-5/3 ,2 брл БгТр-29 0,220Ct 3/5, вес: 3,81г</description>
         <stock>0</stock>
     </offer>
-    <offer id="156271898" available="true">
+    <offer id="156271898" available="false">
         <name>Кольцо ювелирное с бриллиантами</name>
-        <price>1967440</price>
+        <price>1770696</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -435,7 +435,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 1 брл Ов-57 1,520Ct 8-5/6 ,2 брл Фант-49 0,430Ct 3/5, вес: 4,14</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="194907327" available="false">
         <name>Пусеты с изумрудами и бриллиантами</name>
@@ -1332,7 +1332,7 @@
     </offer>
     <offer id="235765811" available="true">
         <name>Серьги ювелирные "Небесные искры" с бриллиантами</name>
-        <price>160402</price>
+        <price>153428</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1672,9 +1672,9 @@
 2 брл Кр-57 0,110Ct 2/5, вес: 2,48</description>
         <stock>0</stock>
     </offer>
-    <offer id="430031568" available="true">
+    <offer id="430031568" available="false">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>84916</price>
+        <price>81224</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1685,7 +1685,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,130Ct 2/6, вес: 2,23г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="170847131" available="false">
         <name>Кулон Ленточка с бриллиантами</name>
@@ -2056,7 +2056,7 @@
     </offer>
     <offer id="1024313666" available="true">
         <name>Серьги ювелирные платиновые Шарики с бриллиантами</name>
-        <price>155900</price>
+        <price>148105</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -2931,7 +2931,7 @@
     </offer>
     <offer id="768662598" available="false">
         <name>Кольцо ювелирное "Дерево роз" с бриллиантами</name>
-        <price>142200</price>
+        <price>135090</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -3613,7 +3613,7 @@
     </offer>
     <offer id="331753451" available="true">
         <name>Серьги ювелирные "Лотосы" с цветными бриллиантами</name>
-        <price>175940</price>
+        <price>166680</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -4939,7 +4939,7 @@
     </offer>
     <offer id="169356573" available="false">
         <name>Ювелирная подвеска "Драгоценность души"</name>
-        <price>60170</price>
+        <price>57435</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -5092,7 +5092,7 @@
     </offer>
     <offer id="166093408" available="true">
         <name>Серьги ювелирные Конго с бриллиантами</name>
-        <price>104581</price>
+        <price>100034</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -5162,7 +5162,7 @@
     </offer>
     <offer id="379700724" available="true">
         <name>Кольцо золотое Сердечки с бриллиантом</name>
-        <price>105340</price>
+        <price>100760</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -5365,7 +5365,7 @@
     </offer>
     <offer id="155892605" available="true">
         <name>Подвеска ювелирная "Колдовской лист" с турмалинами</name>
-        <price>76570</price>
+        <price>72540</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -6291,7 +6291,7 @@
     </offer>
     <offer id="182618523" available="false">
         <name>Ажурное кольцо с бриллиантами</name>
-        <price>70136</price>
+        <price>66948</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -6671,7 +6671,7 @@
     </offer>
     <offer id="1024313680" available="false">
         <name>Серьга-моно ювелирная платиновая Шарик с бриллиантом</name>
-        <price>84238</price>
+        <price>80409</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -6853,7 +6853,7 @@
     </offer>
     <offer id="835898416" available="true">
         <name>Ювелирные серьги с бриллиантами</name>
-        <price>194180</price>
+        <price>184471</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -7054,7 +7054,7 @@
     </offer>
     <offer id="317361049" available="true">
         <name>Серьги ювелирные с подвесами "Лазурный берег" с бирюзой</name>
-        <price>169855</price>
+        <price>162470</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -7123,7 +7123,7 @@
     </offer>
     <offer id="215571064" available="true">
         <name>Одиночная серьга ювелирная Хризопраз в бриллиантах</name>
-        <price>80465</price>
+        <price>76230</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -7608,9 +7608,9 @@
 р.р 18.5 - 23 брл Пр-65 3,630Ct 2/4, вес: 4,96г</description>
         <stock>0</stock>
     </offer>
-    <offer id="564311722" available="true">
+    <offer id="564311722" available="false">
         <name>Кольцо ювелирное "Звездная пыль" с бриллиантами</name>
-        <price>446430</price>
+        <price>427020</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -7620,7 +7620,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов(Бриллианты АЛРОСА, Якутия):
 р.р 17.0 - 25 брл Кр-57 1,310Ct 3/5, вес: 4,79г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="434612097" available="false">
         <name>Кольцо ювелирное с бриллиантами</name>
@@ -7742,7 +7742,7 @@
     </offer>
     <offer id="197767422" available="true">
         <name>Кольцо ювелирное "Снежный вельвет" с танзанитами</name>
-        <price>132296</price>
+        <price>126544</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -8129,7 +8129,7 @@
     </offer>
     <offer id="331753446" available="false">
         <name>Серьги золотые сердечки "Пульсация чувств" с бриллиантами</name>
-        <price>458603</price>
+        <price>434466</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -8462,7 +8462,7 @@
     </offer>
     <offer id="332697460" available="false">
         <name>Кольцо золотое с пятикаратным бриллиантом</name>
-        <price>7200000</price>
+        <price>7000000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -8728,15 +8728,6 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия) и полудрагоценного камня аметиста: 26 брл Кр-57 0,230Ct 2/3, 1 амт КрБрл 3,900Ct, вес: 4,21</description>
         <stock>0</stock>
     </offer>
-    <offer id="147965191" available="false">
-        <name>Ювелирное кольцо с празиолитом и бриллиантами</name>
-        <price>42975</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>Ювелирные кольца</categoryId>
-        <picture>[object Object]</picture>
-        <description>Кольцо из желтого золота 585 пробы с натуральным празиолитом и бриллиантами. Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия) и полудрагоценных камней празиолитов: 6 брл Кр-57 0,110Ct 3/6, 1 праз КабБрл 3,750Ct зеленый, вес: 3,53.</description>
-        <stock>0</stock>
-    </offer>
     <offer id="101422743" available="false">
         <name>Золотое кольцо с турмалином</name>
         <price>317625</price>
@@ -8744,6 +8735,15 @@
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
         <description>Кольцо из белого золота 585 пробы с натуральными бриллиантами и красивым центральным турмалином. Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия) и турмалинов: 14 брл Кр-57 0,260Ct 3/5, 1 трмл Кр 3,000Ct, вес: 2,46.</description>
+        <stock>0</stock>
+    </offer>
+    <offer id="147965191" available="false">
+        <name>Ювелирное кольцо с празиолитом и бриллиантами</name>
+        <price>42975</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>Ювелирные кольца</categoryId>
+        <picture>[object Object]</picture>
+        <description>Кольцо из желтого золота 585 пробы с натуральным празиолитом и бриллиантами. Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия) и полудрагоценных камней празиолитов: 6 брл Кр-57 0,110Ct 3/6, 1 праз КабБрл 3,750Ct зеленый, вес: 3,53.</description>
         <stock>0</stock>
     </offer>
     <offer id="136897897" available="false">
@@ -9971,7 +9971,7 @@
     </offer>
     <offer id="176848885" available="false">
         <name>Серьги ювелирные со шпинелью</name>
-        <price>86165</price>
+        <price>81630</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -10206,7 +10206,7 @@
     </offer>
     <offer id="154185314" available="true">
         <name>Кольцо ажурное с бриллиантами</name>
-        <price>311397</price>
+        <price>297858</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -10344,7 +10344,7 @@
     </offer>
     <offer id="141341997" available="false">
         <name>Подвеска ювелирная Крест с бриллиантами</name>
-        <price>84916</price>
+        <price>81224</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -11627,7 +11627,7 @@
 8 брл Кр-57 0,060Ct 3/6 ,2 Лннкмн Кбш 5,00 0,920Ct вес 3,090 г</description>
         <stock>0</stock>
     </offer>
-    <offer id="429225023" available="false">
+    <offer id="429225023" available="true">
         <name>Кольцо ювелирное с бриллиантом</name>
         <price>136700</price>
         <currencyId>RUB</currencyId>
@@ -11642,7 +11642,7 @@
 р.р 16.5 - 1 брл Кр-86 0,250Ct 3/5, вес: 2,31г
 р.р. 17.0 - 1 брл Кр-86 0,240Ct 3/5, вес: 2,27г
 р.р. 17.5 - 1 брл Кр-86 0,240Ct 4/5, вес: 2,23г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="391961553" available="false">
         <name>Кольцо из платины с бриллиантом</name>
@@ -11707,7 +11707,7 @@
     </offer>
     <offer id="321713788" available="true">
         <name>Ювелирная подвеска "Драгоценность души" с бриллиантами</name>
-        <price>64680</price>
+        <price>61740</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -11724,7 +11724,7 @@
 6 брл Кр-57 0,110Ct 3/5, вес: 1,37г</description>
         <stock>2</stock>
     </offer>
-    <offer id="301642773" available="true">
+    <offer id="301642773" available="false">
         <name>Подвеска ювелирная крест с бриллиантами</name>
         <price>34175</price>
         <currencyId>RUB</currencyId>
@@ -11740,7 +11740,7 @@
 8 брл Кр-57 0,030Ct 3/6, вес: 1,10.
 8 брл Кр-57 0,030Ct 3/6, вес: 1,04.
 </description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="120187447" available="false">
         <name>Золотой крестик с бриллиантами</name>
@@ -11859,7 +11859,7 @@
     </offer>
     <offer id="317369476" available="true">
         <name>Декоративный Крестик с бриллиантами</name>
-        <price>28707</price>
+        <price>27340</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -11874,7 +11874,7 @@
     </offer>
     <offer id="1252294225" available="false">
         <name>Подвеска ювелирная "Драгоценность души" с бриллиантами</name>
-        <price>58894</price>
+        <price>56217</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -11970,7 +11970,7 @@
     </offer>
     <offer id="301596989" available="true">
         <name>Декоративный Крестик с бриллиантами</name>
-        <price>32832</price>
+        <price>31464</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -12001,7 +12001,7 @@
     </offer>
     <offer id="318332123" available="false">
         <name>Ювелирная подвеска "Драгоценность души"</name>
-        <price>63184</price>
+        <price>60312</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -12163,7 +12163,7 @@
     </offer>
     <offer id="335628008" available="true">
         <name>Кольцо золотое c бриллиантом принцесса</name>
-        <price>126280</price>
+        <price>120540</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -12246,7 +12246,7 @@
 р.р 17.0 - 1 брл Кр-57 0,310Ct 3/3, вес: 8,07г</description>
         <stock>0</stock>
     </offer>
-    <offer id="586161222" available="false">
+    <offer id="586161222" available="true">
         <name>Кольцо ювелирное "Полярности души" с бриллиантом</name>
         <price>104725</price>
         <currencyId>RUB</currencyId>
@@ -12258,7 +12258,7 @@
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
 р.р 18.0 - 1 брл Кр-57 0,060Ct 3/5, вес: 4,4г
 р.р 20.0 - 1 брл Кр-57 0,050Ct 4/5, вес: 4,75г; 4,22г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="768794549" available="false">
         <name>Кольцо ювелирное "Последние снежинки" с бриллиантами</name>
@@ -12700,7 +12700,7 @@
     </offer>
     <offer id="468779140" available="true">
         <name>Серьги ювелирные "Морские скаты" с бриллиантами</name>
-        <price>95910</price>
+        <price>91740</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -12713,7 +12713,7 @@
     </offer>
     <offer id="421886036" available="true">
         <name>Серьги ювелирные золотые Колоски</name>
-        <price>96272</price>
+        <price>91896</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -12904,7 +12904,7 @@
     </offer>
     <offer id="767007065" available="true">
         <name>Подвеска ювелирная с сапфиром</name>
-        <price>54120</price>
+        <price>51660</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -12962,7 +12962,7 @@
     </offer>
     <offer id="147327812" available="true">
         <name>Лаконичный крест из бриллиантовой дорожки</name>
-        <price>83352</price>
+        <price>79728</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -13395,7 +13395,7 @@
     </offer>
     <offer id="927028938" available="true">
         <name>Ювелирные серьги с сапфирами и бриллиантами</name>
-        <price>110780</price>
+        <price>105241</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -13734,9 +13734,9 @@
 2 брл Кр-57 0,370Ct 3/5, вес: 1.84г.</description>
         <stock>0</stock>
     </offer>
-    <offer id="411748034" available="true">
+    <offer id="411748034" available="false">
         <name>Серьги гвоздики с крупными бриллиантами</name>
-        <price>257830</price>
+        <price>246620</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -13745,7 +13745,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,510Ct 3/6, вес: 1,48г: 1,55г</description>
-        <stock>2</stock>
+        <stock>0</stock>
     </offer>
     <offer id="421886022" available="false">
         <name>Серьги ювелирные гвоздики с бриллиантами</name>
@@ -13957,7 +13957,7 @@
     </offer>
     <offer id="817685871" available="false">
         <name>Кольцо ювелирное с бриллиантом</name>
-        <price>93800</price>
+        <price>89110</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -14391,7 +14391,7 @@
     </offer>
     <offer id="1252087476" available="true">
         <name>Серьги ювелирные "Тонкие линии" с бриллиантами</name>
-        <price>185020</price>
+        <price>176610</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -14476,7 +14476,7 @@
     </offer>
     <offer id="468779142" available="true">
         <name>Серьги ювелирные с алой шпинелью</name>
-        <price>126483</price>
+        <price>119826</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -14646,7 +14646,7 @@
     </offer>
     <offer id="322292260" available="true">
         <name>Кольцо ювелирное "Amore" с бриллиантами</name>
-        <price>118218</price>
+        <price>111996</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -14761,7 +14761,7 @@
     </offer>
     <offer id="196670801" available="true">
         <name>Кольцо золотое с жемчугом</name>
-        <price>266000</price>
+        <price>252000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -14996,7 +14996,7 @@
     </offer>
     <offer id="896151626" available="false">
         <name>Подвеска ювелирная "Бегунок" с бриллиантом</name>
-        <price>141542</price>
+        <price>129234</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -15372,7 +15372,7 @@
     </offer>
     <offer id="243817734" available="true">
         <name>Подвеска золотая с бриллиантом</name>
-        <price>235923</price>
+        <price>223506</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -15469,7 +15469,7 @@
     </offer>
     <offer id="783637511" available="true">
         <name>Кольцо ювелирное с изумрудом</name>
-        <price>87252</price>
+        <price>83286</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -15615,7 +15615,7 @@
     </offer>
     <offer id="1031858993" available="true">
         <name>Серьги ювелирные с бриллиантами</name>
-        <price>153750</price>
+        <price>141450</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -15625,7 +15625,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,330Ct 3/5, вес: 1,45г; 1,55г</description>
-        <stock>2</stock>
+        <stock>1</stock>
     </offer>
     <offer id="918168162" available="false">
         <name>Серьги ювелирные с бриллиантами</name>
@@ -15698,7 +15698,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,510Ct 3/6, вес: 1,47г
 2 брл Кр-57 0,520Ct 3/5, вес: 1,4г</description>
-        <stock>1</stock>
+        <stock>2</stock>
     </offer>
     <offer id="1061961507" available="false">
         <name>Серьги ювелирные с сапфирами</name>
@@ -15714,9 +15714,9 @@
 8 брл Кр-57 0,100Ct 3/6 ,2 спф Кр 0,440Ct 2/1, вес: 2,46г</description>
         <stock>0</stock>
     </offer>
-    <offer id="893225031" available="true">
+    <offer id="893225031" available="false">
         <name>Ювелирные серьги с бриллиантами и сапфирами</name>
-        <price>124800</price>
+        <price>114816</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -15728,7 +15728,7 @@
 
 Вставка из натуральных природных драгоценных камней сапфиров и бриллиантов (Бриллианты АЛРОСА, Якутия):
 8 брл Кр-57 0,100Ct 3/6 ,2 спф Кр 0,340Ct 2/1, вес: 2,63г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="893225039" available="false">
         <name>Ювелирные серьги с бриллиантами и сапфирами</name>
@@ -15745,7 +15745,7 @@
     </offer>
     <offer id="884669943" available="true">
         <name>Серьги ювелирные с изумрудами</name>
-        <price>111298</price>
+        <price>106239</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -15854,9 +15854,9 @@
 2 брл Кр-57 0,040Ct 3/5, вес: 1,5г</description>
         <stock>0</stock>
     </offer>
-    <offer id="342481535" available="true">
+    <offer id="342481535" available="false">
         <name>Серьги шарики золотые с бриллиантами</name>
-        <price>100875</price>
+        <price>92805</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -15866,7 +15866,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,130Ct 3/3, вес: 2,21г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="342475805" available="false">
         <name>Серьги шарики золотые с бриллиантами</name>
@@ -16615,7 +16615,7 @@
     </offer>
     <offer id="790636513" available="true">
         <name>Кольцо ювелирное с дорожкой бриллиантов</name>
-        <price>243694</price>
+        <price>221540</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -16899,7 +16899,7 @@
     </offer>
     <offer id="432620531" available="true">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>79895</price>
+        <price>75690</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -16910,9 +16910,9 @@
 2 брл Кр-57 0,190Ct 3/6, вес: 2,21г</description>
         <stock>1</stock>
     </offer>
-    <offer id="428936094" available="true">
+    <offer id="428936094" available="false">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>77490</price>
+        <price>73800</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -16924,7 +16924,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,130Ct 2/6, вес: 2,22г; 2,23г
 2 брл Кр-57 0,150Ct 2/6, вес: 2,29г</description>
-        <stock>2</stock>
+        <stock>0</stock>
     </offer>
     <offer id="391817946" available="false">
         <name>Серьги ювелирные шарики с бриллиантами</name>
@@ -16942,7 +16942,7 @@
     </offer>
     <offer id="317361041" available="true">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>64469</price>
+        <price>58863</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -16955,7 +16955,7 @@
     </offer>
     <offer id="164622880" available="true">
         <name>Пусеты шарики с бриллиантами маленькие</name>
-        <price>34867</price>
+        <price>32816</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -16969,7 +16969,7 @@
     </offer>
     <offer id="430031570" available="true">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>94000</price>
+        <price>86480</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -17015,7 +17015,7 @@
     </offer>
     <offer id="371080200" available="true">
         <name>Серьги шарики с бриллиантами</name>
-        <price>157274</price>
+        <price>150436</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -17029,7 +17029,7 @@
     </offer>
     <offer id="1252087416" available="true">
         <name>Серьги ювелирные "Шарики" с бриллиантами</name>
-        <price>80541</price>
+        <price>76302</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -17055,7 +17055,7 @@
     </offer>
     <offer id="421886026" available="true">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>67694</price>
+        <price>64617</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -17102,9 +17102,9 @@
 2 трмл Кр 5,00 1,220Ct ,2 трмл Кр 2,00 0,080Ct, вес: 1,78г.</description>
         <stock>0</stock>
     </offer>
-    <offer id="1179756647" available="false">
+    <offer id="1179756647" available="true">
         <name>Кольцо ювелирное "Звезда морей" с жемчугом</name>
-        <price>261117</price>
+        <price>247374</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -17114,7 +17114,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов и жемчуга (Бриллианты АЛРОСА, Якутия):
 р.р 16.5 - 20 брл Кр-57 0,670Ct 3/3 ,1 жмч 8,50 0,860Ct, вес: 6,19г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="817685893" available="false">
         <name>Кольцо ювелирное "Сокровищница океана" с жемчугом</name>
@@ -17322,7 +17322,7 @@
     </offer>
     <offer id="234918152" available="true">
         <name>Ювелирное кольцо перстень "Эдельвейс" с аметистом</name>
-        <price>298830</price>
+        <price>284600</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -17421,7 +17421,7 @@
     </offer>
     <offer id="884670261" available="true">
         <name>Серьги ювелирные с аметистами</name>
-        <price>323075</price>
+        <price>297229</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -17479,7 +17479,7 @@
     </offer>
     <offer id="411748045" available="false">
         <name>Серьги ювелирные бриллиантовые Совы</name>
-        <price>302742</price>
+        <price>275220</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -17918,7 +17918,7 @@
     </offer>
     <offer id="432648579" available="true">
         <name>Серьги ювелирные с крупными бриллиантами</name>
-        <price>257830</price>
+        <price>246620</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -17929,9 +17929,9 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллаинты АЛРОСА, Якутия):
 2 брл Кр-57 0,530Ct 3/6, вес: 1,54г
 2 брл Кр-57 0,520Ct 3/6, вес: 1,55г</description>
-        <stock>2</stock>
+        <stock>1</stock>
     </offer>
-    <offer id="1556514542" available="true">
+    <offer id="1556514542" available="false">
         <name>Серьги ювелирные Гвоздики с бриллиантами</name>
         <price>135240</price>
         <currencyId>RUB</currencyId>
@@ -17942,7 +17942,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,320Ct 3/5, вес: 1,48г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="371080191" available="false">
         <name>Серьги ювелирные реликвия</name>
@@ -18015,9 +18015,9 @@
 </description>
         <stock>0</stock>
     </offer>
-    <offer id="296888612" available="true">
+    <offer id="296888612" available="false">
         <name>Серьги пусеты Шарики с бриллиантами</name>
-        <price>126008</price>
+        <price>119376</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -18028,7 +18028,7 @@
 2 брл Кр-57 0,310Ct 3/6, вес: 2,78г
 
 </description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="296888608" available="false">
         <name>Серьги пусеты Шарики</name>
@@ -18089,9 +18089,9 @@
 2 брл Кр-57 0,180Ct 7/5, вес: 2,32г</description>
         <stock>0</stock>
     </offer>
-    <offer id="296888609" available="true">
+    <offer id="296888609" available="false">
         <name>Серьги пусеты Шарики с бриллиантами</name>
-        <price>88067</price>
+        <price>84238</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -18102,7 +18102,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
 2 брл Кр-57 0,130Ct 3/5, вес: 2,23г; 2,24г
 </description>
-        <stock>2</stock>
+        <stock>0</stock>
     </offer>
     <offer id="833943099" available="false">
         <name>Кольцо ювелирное с празиолитом</name>
@@ -18231,7 +18231,7 @@
     </offer>
     <offer id="786719434" available="false">
         <name>Колье ювелирное "Наброски фраз" с бриллиантами</name>
-        <price>1558950</price>
+        <price>1476900</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные колье</categoryId>
         <picture>[object Object]</picture>
@@ -18537,7 +18537,7 @@
 р.р. 18.0, вес: 3,79г</description>
         <stock>0</stock>
     </offer>
-    <offer id="1543134485" available="true">
+    <offer id="1543134485" available="false">
         <name>Кольцо ювелирное золотое 750 пробы</name>
         <price>424603</price>
         <currencyId>RUB</currencyId>
@@ -18547,7 +18547,7 @@
 Ширина шинки 7,1 мм, толщина шинки 2 мм.
 
 р.р 19.0 - вес: 12,85г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="927036604" available="false">
         <name>Кольцо ювелирное с изумрудом</name>
@@ -18741,7 +18741,7 @@
     </offer>
     <offer id="434500671" available="true">
         <name>Теннисный браслет "Нежная любовь" с бриллиантами</name>
-        <price>575000</price>
+        <price>529000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные браслеты</categoryId>
         <picture>[object Object]</picture>
@@ -18872,7 +18872,7 @@
     </offer>
     <offer id="332527132" available="true">
         <name>Кольцо ювелирное "Звёзды Медичи" с бриллиантами</name>
-        <price>94600</price>
+        <price>90300</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -18975,7 +18975,7 @@
     </offer>
     <offer id="588888694" available="true">
         <name>Подвеска ювелирная с бриллиантом</name>
-        <price>84238</price>
+        <price>80409</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -19286,9 +19286,9 @@
 28 брл Кр-57 0,290Ct 7/4, вес: 2,93</description>
         <stock>0</stock>
     </offer>
-    <offer id="138660837" available="true">
+    <offer id="138660837" available="false">
         <name>Серьги " Бабочки" с сапфирами</name>
-        <price>140921</price>
+        <price>134794</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -19298,7 +19298,7 @@
 
 Вставка из натуральных природных драгоценных камней сапфиров: 
 4 спф Мр 5,00х2,50 0,570Ct 1/1 ,4 спф Гр 4,00х3,00 0,730Ct 2/1, вес 2,87 г </description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="699289018" available="false">
         <name>Кольцо ювелирное "Верный путь" с бриллиантом</name>
@@ -19498,7 +19498,7 @@
     </offer>
     <offer id="848906010" available="false">
         <name>Брошь ювелирная "Жар Птица" с бриллиантами</name>
-        <price>6000000</price>
+        <price>5800000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные броши</categoryId>
         <picture>[object Object]</picture>
@@ -20334,9 +20334,9 @@
 Р.р - 17.0,  55 фианит недр. Кр 1,350Ct бесцветный, вес: 4.25 г.</description>
         <stock>0</stock>
     </offer>
-    <offer id="1544046748" available="true">
+    <offer id="1544046748" available="false">
         <name>Подвеска ювелирная "Сердце" с бриллиантом</name>
-        <price>10250</price>
+        <price>9840</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -20346,11 +20346,11 @@
 
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,010Ct 2/6, вес: 0,22г; </description>
-        <stock>5</stock>
+        <stock>0</stock>
     </offer>
     <offer id="1011786271" available="true">
         <name>Подвеска ювелирная Сердечко с бриллиантом</name>
-        <price>9680</price>
+        <price>9240</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -20456,7 +20456,7 @@
     </offer>
     <offer id="176149377" available="false">
         <name>Подвеска ювелирная "Хранитель любви" с бриллиантом</name>
-        <price>63140</price>
+        <price>60270</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -20539,7 +20539,7 @@
     </offer>
     <offer id="423373577" available="true">
         <name>Подвеска ювелирная "Нежность любви" с бриллиантом</name>
-        <price>9430</price>
+        <price>8610</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -20570,7 +20570,7 @@
     </offer>
     <offer id="1011786220" available="true">
         <name>Подвеска ювелирная Сердечко с бриллиантом</name>
-        <price>9840</price>
+        <price>9430</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -20585,7 +20585,7 @@
     </offer>
     <offer id="1011786243" available="true">
         <name>Подвеска ювелирная Сердечко с бриллиантом</name>
-        <price>9020</price>
+        <price>8610</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -20599,7 +20599,7 @@
     </offer>
     <offer id="1011786242" available="true">
         <name>Подвеска ювелирная "Хранитель любви" с фианитом</name>
-        <price>46640</price>
+        <price>44520</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -20614,7 +20614,7 @@
     </offer>
     <offer id="429062333" available="true">
         <name>Подвеска золотая "Нежность любви" с бриллиантом</name>
-        <price>9680</price>
+        <price>9240</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -20643,7 +20643,7 @@
 1 брл Кр-57 0,010Ct 3/6, вес: 0,52г</description>
         <stock>0</stock>
     </offer>
-    <offer id="1543938395" available="true">
+    <offer id="1543938395" available="false">
         <name>Подвеска ювелирная "Сердце" с бриллиантом</name>
         <price>9430</price>
         <currencyId>RUB</currencyId>
@@ -20655,7 +20655,7 @@
 
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия): 
 1 брл Кр-57 0,010Ct 3/6, вес: 0,25г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="378926433" available="false">
         <name>Серьги ювелирные "Небесные искры"</name>
@@ -20671,9 +20671,9 @@
 2 рбн Ов 5,00*3,00 0,640Ct 2/1, вес: 1,88г</description>
         <stock>0</stock>
     </offer>
-    <offer id="884670123" available="true">
+    <offer id="884670123" available="false">
         <name>Серьги ювелирные с изумрудами</name>
-        <price>88880</price>
+        <price>84436</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -20684,7 +20684,7 @@
 
 Вставка из натуральных природных камней изумрудов:
 2 изм Мр 6,00*3,00 0,450Ct 2/2, вес: 1,78г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="629104015" available="false">
         <name>Серьги ювелирные "Небесные искры" с бриллиантами</name>
@@ -20702,7 +20702,7 @@
     </offer>
     <offer id="565967359" available="true">
         <name>Серьги ювелирные "Небесные искры"</name>
-        <price>201385.7</price>
+        <price>183873.9</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -20911,7 +20911,7 @@
     </offer>
     <offer id="471349007" available="true">
         <name>Кольцо ювелирное с коньячным бриллиантом</name>
-        <price>294120</price>
+        <price>278640</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -21318,7 +21318,7 @@
     </offer>
     <offer id="697499525" available="true">
         <name>Серьги ювелирные "Хризантемы" с бриллиантами</name>
-        <price>79860</price>
+        <price>76230</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -21496,7 +21496,7 @@
     </offer>
     <offer id="428936127" available="true">
         <name>Серьги ювелирные "Веточки" с бриллиантами</name>
-        <price>72220</price>
+        <price>69080</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -21553,9 +21553,9 @@
 4 брл Кр-57 0,050Ct 3/6, вес: 2,29г</description>
         <stock>0</stock>
     </offer>
-    <offer id="820532166" available="true">
+    <offer id="820532166" available="false">
         <name>Серьги ювелирные листья с бриллиантами</name>
-        <price>90200</price>
+        <price>86100</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -21564,7 +21564,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,110Ct 3/5, вес: 2,66г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="421886018" available="false">
         <name>Серьги ювелирные золотые Лепестки</name>
@@ -21581,7 +21581,7 @@
 </description>
         <stock>0</stock>
     </offer>
-    <offer id="1556494868" available="true">
+    <offer id="1556494868" available="false">
         <name>Серьги ювелирные Гвоздики с бриллиантами</name>
         <price>209070</price>
         <currencyId>RUB</currencyId>
@@ -21593,7 +21593,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,470Ct 3/6, вес: 1,51г
 2 брл Кр-57 0,440Ct 3/6, вес: 1,49г</description>
-        <stock>2</stock>
+        <stock>0</stock>
     </offer>
     <offer id="429062330" available="false">
         <name>Подвеска капелька с изумрудом</name>
@@ -21738,7 +21738,7 @@
     </offer>
     <offer id="330759984" available="true">
         <name>Серьги детские золотые Цветик-Семицветик</name>
-        <price>31179</price>
+        <price>29538</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -21838,9 +21838,9 @@
 20 брл Кр-57 0,150Ct 3/6 ,6 грнт 4,00*4,00 1,630Ct, вес: 5,07г</description>
         <stock>0</stock>
     </offer>
-    <offer id="330759990" available="false">
+    <offer id="330759990" available="true">
         <name>Серьги ювелирные "Цветик-Семицветик" с фианитами</name>
-        <price>36322</price>
+        <price>33020</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -21850,7 +21850,7 @@
 Вставка из цветных фианитов:
 16 фианит недр. Кр 0,750Ct, вес: 1,57г; 1,16г; 1,2г
 </description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="178127673" available="false">
         <name>Золотые серьги клевер</name>
@@ -21892,7 +21892,7 @@
     </offer>
     <offer id="884669950" available="true">
         <name>Серьги ювелирные "Розы" с аметистами</name>
-        <price>81224</price>
+        <price>77532</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -21932,7 +21932,7 @@
 </description>
         <stock>0</stock>
     </offer>
-    <offer id="1543134383" available="true">
+    <offer id="1543134383" available="false">
         <name>Кольцо ювелирное с бриллиантами</name>
         <price>786324</price>
         <currencyId>RUB</currencyId>
@@ -21945,7 +21945,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов(Бриллианты АЛРОСА, Якутия):
 р.р 18.5 - 2 брл Кр-57 0,070Ct 3/6 ,38 брл Кр-57 0,400Ct 3/6 ,16 брл Кр-57 0,100Ct 3/5 ,1 брл Кр-57 0,810Ct 3/7, вес: 4,69г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="586161207" available="false">
         <name>Кольцо ювелирное с бриллиантами</name>
@@ -22002,7 +22002,7 @@
     </offer>
     <offer id="366669964" available="true">
         <name>Подвеска ювелирная Сердце с сапфиром</name>
-        <price>5400000</price>
+        <price>5200000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -22046,9 +22046,9 @@
 </description>
         <stock>0</stock>
     </offer>
-    <offer id="758312215" available="true">
+    <offer id="758312215" available="false">
         <name>Подвеска ювелирная "Пульс любви" с бриллиантами</name>
-        <price>36179</price>
+        <price>34606</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -22058,7 +22058,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 14 брл Кр-57 0,060Ct 3/6, вес: 0,93г; 0,97г</description>
-        <stock>2</stock>
+        <stock>0</stock>
     </offer>
     <offer id="613362850" available="false">
         <name>Подвеска ювелирная "Истинная любовь" с бриллиантами</name>
@@ -22090,7 +22090,7 @@
     </offer>
     <offer id="376572276" available="true">
         <name>Подвеска ювелирная сердце с бриллиантами</name>
-        <price>36179</price>
+        <price>34606</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -22100,7 +22100,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов изумруда и рубина (Бриллианты АЛРОСА, Якутия):
 14 брл Кр-57 0,060Ct 3/6, вес? 0,89г; 0,91г</description>
-        <stock>2</stock>
+        <stock>1</stock>
     </offer>
     <offer id="768585859" available="false">
         <name>Подвеска ювелирная "Пульс любви" с бриллиантами</name>
@@ -22133,7 +22133,7 @@
     </offer>
     <offer id="910194299" available="false">
         <name>Ювелирное кольцо с бриллиантами и шпинелью</name>
-        <price>110428</price>
+        <price>104616</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -22147,7 +22147,7 @@
     </offer>
     <offer id="833943105" available="true">
         <name>Кольцо ювелирное с бриллиантами</name>
-        <price>180500</price>
+        <price>171000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -22520,7 +22520,7 @@
 2 брл Кр-57 0,290Ct 5/4 ,14 брл Кр-57 0,240Ct 3/6, вес: 3,34г</description>
         <stock>0</stock>
     </offer>
-    <offer id="1031686744" available="true">
+    <offer id="1031686744" available="false">
         <name>Серьги ювелирные с бриллиантами</name>
         <price>825631</price>
         <currencyId>RUB</currencyId>
@@ -22532,7 +22532,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 1,010Ct 5/7, вес: 3,31г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="1721878589" available="false">
         <name>Подвеска ювелирная Ромашка с бриллиантами</name>
@@ -22631,7 +22631,7 @@
     </offer>
     <offer id="331528608" available="true">
         <name>Подвеска ювелирная "Золотая рыбка" с бриллиантами</name>
-        <price>109802</price>
+        <price>104811</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -22658,7 +22658,7 @@
     </offer>
     <offer id="244754316" available="true">
         <name>Ювелирная подвеска Жёлудь из серебра</name>
-        <price>29808</price>
+        <price>28512</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -22669,9 +22669,9 @@
 Вес: 13,57г</description>
         <stock>1</stock>
     </offer>
-    <offer id="896151644" available="false">
+    <offer id="896151644" available="true">
         <name>Подвеска ювелирная "Мишка" с бриллиантами</name>
-        <price>76714</price>
+        <price>73227</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -22680,7 +22680,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,040Ct 3/6, вес: 2,82г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="699475140" available="false">
         <name>Подвеска ювелирная сова с бриллиантами</name>
@@ -23187,7 +23187,7 @@
     </offer>
     <offer id="317370793" available="true">
         <name>Ювелирная подвеска "Золотая рыбка" с бриллиантами</name>
-        <price>86480</price>
+        <price>82720</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -23368,7 +23368,7 @@
     </offer>
     <offer id="969302053" available="false">
         <name>Одиночная серьга-моно ювелирная с аметистом</name>
-        <price>40926</price>
+        <price>38772</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -23396,9 +23396,9 @@
 1 трмл 6,00 1,140Ct, вес: 2,16г.</description>
         <stock>0</stock>
     </offer>
-    <offer id="969302034" available="true">
+    <offer id="969302034" available="false">
         <name>Одиночная серьга-моно ювелирная с аметистом</name>
-        <price>40280</price>
+        <price>38160</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -23409,7 +23409,7 @@
 
 Вставка из натурального природного камня аметиста и драгоценных бриллиантов (Бриллианты АЛРОСА, Якутия):
 8 брл Кр-57 0,060Ct 3/6 ,1 амт Кабош 5,00 0,580Ct, вес: 1,26г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="866532591" available="false">
         <name>Одиночная серьга-моно с хризопразом</name>
@@ -23574,7 +23574,7 @@
     </offer>
     <offer id="446063508" available="true">
         <name>Кольцо ювелирное перстень "Взгляд дракона" с турмалином</name>
-        <price>277666</price>
+        <price>263052</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -23588,7 +23588,7 @@
     </offer>
     <offer id="333349214" available="false">
         <name>Золотое кольцо перстень "Часы" с бриллиантами</name>
-        <price>1002934</price>
+        <price>950148</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -23694,20 +23694,20 @@
 28 брл Кр-57 0,280Ct 3/6, вес: 6,54г</description>
         <stock>0</stock>
     </offer>
-    <offer id="166092316" available="true">
+    <offer id="166092316" available="false">
         <name>Серьги ювелирные Конго дорожки с бриллиантами</name>
-        <price>104581</price>
+        <price>100034</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
         <description>Серьги дорожки из красного золота розового золота 585 пробы с натуральными красивыми игручими якутскими бриллиантами. Серьги кольца колечки конго прямоугольные со скругленным верхом и низом с бриллиантовой дорожкой. Размеры 15х10х2 мм. 
 Вставка из природного натурального драгоценного камня бриллиант (Бриллианты АЛРОСА, Якутия): 
 12 брл Кр-57 0,080Ct 3/6, вес: 3,39г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="1031516883" available="true">
         <name>Серьги ювелирные "Конго" с бриллиантами</name>
-        <price>121858</price>
+        <price>116319</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -23926,7 +23926,7 @@
     </offer>
     <offer id="758235105" available="true">
         <name>Серьги ювелирные "Кометы" с бриллиантами</name>
-        <price>290950</price>
+        <price>278300</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -24028,7 +24028,7 @@
     </offer>
     <offer id="214737233" available="true">
         <name>Серьги золотые гаечки с бриллиантами</name>
-        <price>192280</price>
+        <price>182160</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -24368,7 +24368,7 @@
     </offer>
     <offer id="927028952" available="true">
         <name>Ювелирные серьги с бриллиантами</name>
-        <price>213340</price>
+        <price>202673</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -24556,7 +24556,7 @@
     </offer>
     <offer id="783927464" available="true">
         <name>Подвеска ювелирная Юла из желтого золота</name>
-        <price>47150</price>
+        <price>45100</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -24582,7 +24582,7 @@
     </offer>
     <offer id="783927353" available="true">
         <name>Подвеска ювелирная юла из белого золота</name>
-        <price>47150</price>
+        <price>43050</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -25405,7 +25405,7 @@
 7 брл Кр-57 0,250Ct 3/6 ,2 спф цветной 2,00 0,100Ct, вес: 1,25г</description>
         <stock>0</stock>
     </offer>
-    <offer id="430031723" available="false">
+    <offer id="430031723" available="true">
         <name>Одиночная моно-серьга ювелирная цветок</name>
         <price>72080</price>
         <currencyId>RUB</currencyId>
@@ -25418,7 +25418,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,140Ct 5/7 ,7 брл Кр-57 0,090Ct 3/6, вес: 0,95
 1 брл Кр-57 0,150Ct 5/6 ,7 брл Кр-57 0,080Ct 3/5, вес: 0,98г</description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="423241104" available="false">
         <name>Одиночная серьга-моно ювелирная с бриллиантами</name>
@@ -25564,7 +25564,7 @@
 13 брл Кр-57 0,100Ct 3/6, вес: 1,19г</description>
         <stock>0</stock>
     </offer>
-    <offer id="969403632" available="true">
+    <offer id="969403632" available="false">
         <name>Одиночная серьга-моно ювелирная "Морской скат"с бриллиантом</name>
         <price>47955</price>
         <currencyId>RUB</currencyId>
@@ -25575,7 +25575,7 @@
 
 Вставка из натурального природного драгоценного камня бриллианта (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,030Ct 3/7, вес: 1,66г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="370406281" available="false">
         <name>Серьга-моно сердечко вселенная</name>
@@ -25837,7 +25837,7 @@
     </offer>
     <offer id="333349226" available="false">
         <name>Кольцо ювелирное с бриллиантом</name>
-        <price>634634</price>
+        <price>576940</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -25851,7 +25851,7 @@
     </offer>
     <offer id="432771416" available="true">
         <name>Кольцо платиновое с фантазийным розовым бриллиантом</name>
-        <price>1791453</price>
+        <price>1697166</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -26283,7 +26283,7 @@
     </offer>
     <offer id="367739805" available="false">
         <name>Золотое кольцо "Сказочная ветвь" с бриллиантами</name>
-        <price>55660</price>
+        <price>53130</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -26297,9 +26297,9 @@
 р.р. 18.0 - 3 брл Кр-57 0,050Ct 3/5, вес: 1,69г</description>
         <stock>0</stock>
     </offer>
-    <offer id="367739803" available="true">
+    <offer id="367739803" available="false">
         <name>Золотое кольцо "Сказочная ветвь" с бриллиантами</name>
-        <price>55660</price>
+        <price>53130</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -26310,7 +26310,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 р.р 16.5 - 3 брл Кр-57 0,040Ct 3/6, вес: 1,94г
 р.р. 18.0 - 3 брл Кр-57 0,050Ct 3/5, вес: 1,73г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="347520380" available="false">
         <name>Кольцо ювелирное</name>
@@ -26569,7 +26569,7 @@
     </offer>
     <offer id="321857373" available="true">
         <name>Подвеска ювелирная Небосвод</name>
-        <price>75900</price>
+        <price>72600</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -26893,7 +26893,7 @@
     </offer>
     <offer id="276343202" available="true">
         <name>Золотое кольцо с крупным изумрудом</name>
-        <price>112892</price>
+        <price>108550</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -26969,7 +26969,7 @@
     </offer>
     <offer id="415401653" available="false">
         <name>Кольцо ювелирное с изумрудом</name>
-        <price>166003</price>
+        <price>157266</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -27275,7 +27275,7 @@
     </offer>
     <offer id="701922973" available="true">
         <name>Кольцо ювелирное "Магия патронуса" с сапфиром</name>
-        <price>158460</price>
+        <price>150120</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -27571,7 +27571,7 @@
     </offer>
     <offer id="391598433" available="true">
         <name>Кольцо золотое с бриллиантом</name>
-        <price>505340</price>
+        <price>459400</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -27648,9 +27648,9 @@
 р.р 16.0 - 1 брл Кр-57 0,220Ct 3/6, вес: 1,69г</description>
         <stock>0</stock>
     </offer>
-    <offer id="321774424" available="false">
+    <offer id="321774424" available="true">
         <name>Кольцо с бриллиантом</name>
-        <price>122113</price>
+        <price>115686</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -27661,7 +27661,7 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия);
 р.р 15.5 - 1 брл Кр-57 0,250Ct 3/6, вес: 1,73г
 </description>
-        <stock>0</stock>
+        <stock>1</stock>
     </offer>
     <offer id="397361721" available="false">
         <name>Кольцо из платины с бриллиантом</name>
@@ -28029,7 +28029,7 @@
     </offer>
     <offer id="535823027" available="true">
         <name>Кольцо ювелирное с коричневым бриллиантом</name>
-        <price>496000</price>
+        <price>471200</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -28043,7 +28043,7 @@
     </offer>
     <offer id="783637494" available="false">
         <name>Кольцо ювелирное с бриллиантами</name>
-        <price>1429066</price>
+        <price>1353852</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -28086,7 +28086,7 @@
     </offer>
     <offer id="493159027" available="true">
         <name>Кольцо ювелирное с бриллиантами</name>
-        <price>474160</price>
+        <price>450452</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -28264,7 +28264,7 @@
     </offer>
     <offer id="588740096" available="false">
         <name>Серьги ювелирные "Дерево роз" с бриллиантами</name>
-        <price>318250</price>
+        <price>301500</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
