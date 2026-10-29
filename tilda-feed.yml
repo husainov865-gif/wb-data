@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-29T09:01:54">
+<yml_catalog date="2026-10-29T21:01:30">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -1851,7 +1851,7 @@
 2 брл Кр-57 0,150Ct 2/4, вес: 2,44г</description>
         <stock>1</stock>
     </offer>
-    <offer id="430031570" available="true">
+    <offer id="430031570" available="false">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
         <price>75200</price>
         <currencyId>RUB</currencyId>
@@ -1864,7 +1864,7 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 2 брл Кр-57 0,080Ct 2/6, вес: 2,04г</description>
-        <stock>1</stock>
+        <stock>0</stock>
     </offer>
     <offer id="428936114" available="false">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
@@ -8307,20 +8307,6 @@
 р.р 18.0 - 1 брл Кушон-57 3,110Ct 8-5/5 ,2 брл Трап-29 0,840Ct 5/3, вес: 5,21г</description>
         <stock>0</stock>
     </offer>
-    <offer id="429062309" available="false">
-        <name>Подвеска из платины с бриллиантом</name>
-        <price>165000</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>Ювелирные подвески</categoryId>
-        <picture>[object Object]</picture>
-        <description>Подвеска из платины 950 пробы с натуральным бриллиантом. 
-Небольшая подвеска с крупным бриллиантом, основание кулона в виде пирамиды делает объем и акцент на камне.
-Размер подвески 11,6х6,3 мм, толщина 4,7 мм. размер ушка внутри 3х1,7 мм.
-
-Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
-1 брл Рад-57 0,290Ct 3/5, вес: 1,19г</description>
-        <stock>0</stock>
-    </offer>
     <offer id="338530296" available="false">
         <name>Миниатюрная подвеска с бриллиантом</name>
         <price>14925</price>
@@ -8333,6 +8319,20 @@
 
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
 1 брл Кр-57 0,060Ct 5/6, вес: 0,22 г;</description>
+        <stock>0</stock>
+    </offer>
+    <offer id="429062309" available="false">
+        <name>Подвеска из платины с бриллиантом</name>
+        <price>165000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>Ювелирные подвески</categoryId>
+        <picture>[object Object]</picture>
+        <description>Подвеска из платины 950 пробы с натуральным бриллиантом. 
+Небольшая подвеска с крупным бриллиантом, основание кулона в виде пирамиды делает объем и акцент на камне.
+Размер подвески 11,6х6,3 мм, толщина 4,7 мм. размер ушка внутри 3х1,7 мм.
+
+Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия):
+1 брл Рад-57 0,290Ct 3/5, вес: 1,19г</description>
         <stock>0</stock>
     </offer>
     <offer id="203136953" available="false">
