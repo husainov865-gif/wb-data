@@ -1,6 +1,6 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-28T21:01:35">
+<yml_catalog date="2026-10-29T09:01:54">
   <shop>
     <name>Electrum Gold</name>
     <company>Electrum</company>
@@ -964,7 +964,7 @@
     </offer>
     <offer id="428936127" available="true">
         <name>Серьги ювелирные "Веточки" с бриллиантами</name>
-        <price>65940</price>
+        <price>62800</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1039,7 +1039,7 @@
     </offer>
     <offer id="313280898" available="false">
         <name>Серьги ювелирные "Липовый цвет" с бриллиантами</name>
-        <price>64680</price>
+        <price>61740</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1899,7 +1899,7 @@
     </offer>
     <offer id="421886026" available="true">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>61540</price>
+        <price>58463</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -1988,7 +1988,7 @@
     </offer>
     <offer id="317361041" available="true">
         <name>Серьги ювелирные Шарики с бриллиантами</name>
-        <price>56060</price>
+        <price>53257</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -2450,7 +2450,7 @@
     </offer>
     <offer id="1544046748" available="true">
         <name>Подвеска ювелирная "Сердце" с бриллиантом</name>
-        <price>9430</price>
+        <price>9020</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -2625,7 +2625,7 @@
     </offer>
     <offer id="423373577" available="true">
         <name>Подвеска ювелирная "Нежность любви" с бриллиантом</name>
-        <price>8200</price>
+        <price>7790</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -2852,7 +2852,7 @@
     </offer>
     <offer id="176149377" available="false">
         <name>Подвеска ювелирная "Хранитель любви" с бриллиантом</name>
-        <price>57400</price>
+        <price>54530</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -3325,7 +3325,7 @@
     </offer>
     <offer id="877145215" available="true">
         <name>Серьга-моно ювелирная с бриллиантом</name>
-        <price>106660</price>
+        <price>101327</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -7113,6 +7113,20 @@
 2 спф Кр 3,30 0,380Ct 2/1, вес: 2,83г.</description>
         <stock>0</stock>
     </offer>
+    <offer id="330755929" available="false">
+        <name>Ювелирные серьги с рубинами</name>
+        <price>40875</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>Ювелирные серьги</categoryId>
+        <picture>[object Object]</picture>
+        <description>Серьги из красного золота 585 пробы натуральными рубинами.
+Пуссеты-шарики, очень удобные и легкие. Винтовой замок защищает от потери любимого изделия. Диаметр шарика 3,8 мм, диаметр рубинов 1,8 мм, длина иглы-винта 8,5 мм, рабочая часть 4,5 мм.
+
+Вставка из Натуральных природных драгоценных камней рубинов:
+
+2 рбн Кр 1,80 0,080Ct 2/1, вес: 1,75г.</description>
+        <stock>0</stock>
+    </offer>
     <offer id="341609775" available="false">
         <name>Серьги шарики с рубинами</name>
         <price>969999.03</price>
@@ -7126,20 +7140,6 @@
 Вставка из Натуральных природных драгоценных камней рубинов: 
 
 2 рбн Кр 1,50 0,040Ct 3/1, вес: 1,52г</description>
-        <stock>0</stock>
-    </offer>
-    <offer id="330755929" available="false">
-        <name>Ювелирные серьги с рубинами</name>
-        <price>40875</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>Ювелирные серьги</categoryId>
-        <picture>[object Object]</picture>
-        <description>Серьги из красного золота 585 пробы натуральными рубинами.
-Пуссеты-шарики, очень удобные и легкие. Винтовой замок защищает от потери любимого изделия. Диаметр шарика 3,8 мм, диаметр рубинов 1,8 мм, длина иглы-винта 8,5 мм, рабочая часть 4,5 мм.
-
-Вставка из Натуральных природных драгоценных камней рубинов:
-
-2 рбн Кр 1,80 0,080Ct 2/1, вес: 1,75г.</description>
         <stock>0</stock>
     </offer>
     <offer id="378926431" available="false">
@@ -7576,24 +7576,9 @@
 Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 5 брл Кр-57 0,140Ct 3/6, вес: 5,74.</description>
         <stock>0</stock>
     </offer>
-    <offer id="169327432" available="false">
-        <name>Ювелирная подвеска "Крестик"</name>
-        <price>45575</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>Ювелирные подвески</categoryId>
-        <picture>[object Object]</picture>
-        <description>Подвеска из белого золота 750 пробы с натуральным бриллиантом. Покрытие родий.
-Маленький крестик легкий, лаконичный, с геометрической прорезью внутри в виде креста. Украшен одним природным бриллиантом. Крест можно носить на цепочке, шнурке, на серьге или повесить на браслет. 
-Длина с ушком 22 мм, без ушка 16,5 мм, ширина 11 мм, размер ушка внутри 6х1,7 мм.
-
-Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
-1 брл Кр-57 0,030Ct 3/6, вес: 1,44г
-1 брл Кр-57 0,030Ct 3/6, вес: 1,51г</description>
-        <stock>0</stock>
-    </offer>
     <offer id="169356573" available="false">
         <name>Ювелирная подвеска "Драгоценность души"</name>
-        <price>54700</price>
+        <price>51965</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -7611,6 +7596,21 @@
 6 брл Кр-57 0,110Ct 3/5, вес: 1,53г
 6 брл Кр-57 0,110Ct 3/6, вес: 1,48г
 6 брл Кр-57 0,140Ct 3/6, вес: 1,43г</description>
+        <stock>0</stock>
+    </offer>
+    <offer id="169327432" available="false">
+        <name>Ювелирная подвеска "Крестик"</name>
+        <price>45575</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>Ювелирные подвески</categoryId>
+        <picture>[object Object]</picture>
+        <description>Подвеска из белого золота 750 пробы с натуральным бриллиантом. Покрытие родий.
+Маленький крестик легкий, лаконичный, с геометрической прорезью внутри в виде креста. Украшен одним природным бриллиантом. Крест можно носить на цепочке, шнурке, на серьге или повесить на браслет. 
+Длина с ушком 22 мм, без ушка 16,5 мм, ширина 11 мм, размер ушка внутри 6х1,7 мм.
+
+Вставка из натуральных природных драгоценных камней бриллиантов (Бриллианты АЛРОСА, Якутия): 
+1 брл Кр-57 0,030Ct 3/6, вес: 1,44г
+1 брл Кр-57 0,030Ct 3/6, вес: 1,51г</description>
         <stock>0</stock>
     </offer>
     <offer id="141346634" available="false">
@@ -8295,7 +8295,7 @@
     </offer>
     <offer id="1721864555" available="false">
         <name>Кольцо ювелирное с большим бриллиантом</name>
-        <price>6000000</price>
+        <price>5800000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -10604,7 +10604,7 @@
     </offer>
     <offer id="1726090614" available="false">
         <name>Кольцо ювелирное с розовым бриллиантом</name>
-        <price>16400000</price>
+        <price>16000000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -13765,7 +13765,7 @@
     </offer>
     <offer id="321713788" available="true">
         <name>Ювелирная подвеска "Драгоценность души" с бриллиантами</name>
-        <price>58800</price>
+        <price>55860</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -13932,7 +13932,7 @@
     </offer>
     <offer id="1252294225" available="false">
         <name>Подвеска ювелирная "Драгоценность души" с бриллиантами</name>
-        <price>53540</price>
+        <price>50863</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -14028,7 +14028,7 @@
     </offer>
     <offer id="301596989" available="true">
         <name>Декоративный Крестик с бриллиантами</name>
-        <price>30096</price>
+        <price>28728</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -14059,7 +14059,7 @@
     </offer>
     <offer id="318332123" available="false">
         <name>Ювелирная подвеска "Драгоценность души"</name>
-        <price>57440</price>
+        <price>54568</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -15176,7 +15176,7 @@
     </offer>
     <offer id="767007065" available="true">
         <name>Подвеска ювелирная с сапфиром</name>
-        <price>49200</price>
+        <price>46740</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -16700,7 +16700,7 @@
     </offer>
     <offer id="896151626" available="false">
         <name>Подвеска ювелирная "Бегунок" с бриллиантом</name>
-        <price>123080</price>
+        <price>116926</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -17076,7 +17076,7 @@
     </offer>
     <offer id="243817734" available="true">
         <name>Подвеска золотая с бриллиантом</name>
-        <price>372510</price>
+        <price>198672</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -17391,7 +17391,7 @@
     </offer>
     <offer id="565821458" available="true">
         <name>Серьги гвоздики ювелирные с бриллиантами</name>
-        <price>232480</price>
+        <price>220856</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -18073,7 +18073,7 @@
     </offer>
     <offer id="790636513" available="true">
         <name>Кольцо ювелирное с дорожкой бриллиантов</name>
-        <price>221540</price>
+        <price>210463</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -18917,7 +18917,7 @@
     </offer>
     <offer id="411748045" available="false">
         <name>Серьги ювелирные бриллиантовые Совы</name>
-        <price>275220</price>
+        <price>247698</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -21453,7 +21453,7 @@
     </offer>
     <offer id="1011786193" available="true">
         <name>Подвеска ювелирная "Минимализм" с бриллиантом</name>
-        <price>30360</price>
+        <price>29095</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -21893,7 +21893,7 @@
     </offer>
     <offer id="565967359" available="true">
         <name>Серьги ювелирные "Небесные искры"</name>
-        <price>175118</price>
+        <price>166362.1</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -22662,7 +22662,7 @@
     </offer>
     <offer id="330759990" available="true">
         <name>Серьги ювелирные "Цветик-Семицветик" с фианитами</name>
-        <price>33020</price>
+        <price>29718</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -24651,7 +24651,7 @@
     </offer>
     <offer id="758235105" available="true">
         <name>Серьги ювелирные "Кометы" с бриллиантами</name>
-        <price>265650</price>
+        <price>253000</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -25293,7 +25293,7 @@
     </offer>
     <offer id="783927353" available="true">
         <name>Подвеска ювелирная юла из белого золота</name>
-        <price>41000</price>
+        <price>38950</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные подвески</categoryId>
         <picture>[object Object]</picture>
@@ -25845,7 +25845,7 @@
     </offer>
     <offer id="697499456" available="true">
         <name>Серьги ювелирные гвоздики с коричневыми бриллиантами</name>
-        <price>206750</price>
+        <price>198480</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные серьги</categoryId>
         <picture>[object Object]</picture>
@@ -26548,7 +26548,7 @@
     </offer>
     <offer id="333349226" available="false">
         <name>Кольцо ювелирное с бриллиантом</name>
-        <price>576940</price>
+        <price>548093</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
@@ -26994,7 +26994,7 @@
     </offer>
     <offer id="367739805" available="false">
         <name>Золотое кольцо "Сказочная ветвь" с бриллиантами</name>
-        <price>50600</price>
+        <price>48070</price>
         <currencyId>RUB</currencyId>
         <categoryId>Ювелирные кольца</categoryId>
         <picture>[object Object]</picture>
